@@ -64,3 +64,79 @@ button:not(:disabled):active {
 button:focus {
     border-color: #666;
 }
+
+#toggle-dropdown {
+    width: 25em;
+    display: flex;
+    justify-content: space-between;
+}
+
+#drop-down-arrow {
+    margin-left: auto;
+}
+
+#dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+#inner-dropdown {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #aaa;
+    width: 25em;
+    height: 20em;
+    overflow-y: scroll;
+}
+
+#inner-dropdown input {
+    width: 100%;
+}
+
+.stop-option {
+    cursor: pointer;
+}
+
+.stop-option:hover {
+    background-color: #ddd;
+}
+
+.option-line-indicator {
+    width: 17px;
+    height: 17px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 2px;
+}
+
+.option-line-indicator.red {
+    background: red;
+}
+
+.option-line-indicator.blue {
+    background: blue;
+}
+
+.option-line-indicator.green {
+    background: green;
+}
+
+.option-line-indicator.brown {
+    background: brown;
+}
+
+.option-line-indicator.purple {
+    background: purple;
+}
+
+.option-line-indicator.yellow {
+    background: yellow;
+}
+
+.option-line-indicator.pink {
+    background: pink;
+}
+
+.option-line-indicator.orange {
+    background: orange;
+}

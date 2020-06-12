@@ -1,0 +1,3320 @@
+[
+  {
+    "stop_id": "30162",
+    "map_id": "40830",
+    "direction_id": "W",
+    "stop_name": "18th (54th/Cermak-bound)",
+    "station_name": "18th",
+    "station_descriptive_name": "18th (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30161",
+    "map_id": "40830",
+    "direction_id": "E",
+    "stop_name": "18th (Loop-bound)",
+    "station_name": "18th",
+    "station_descriptive_name": "18th (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30022",
+    "map_id": "40120",
+    "direction_id": "N",
+    "stop_name": "35th/Archer (Loop-bound)",
+    "station_name": "35th/Archer",
+    "station_descriptive_name": "35th/Archer (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30023",
+    "map_id": "40120",
+    "direction_id": "S",
+    "stop_name": "35th/Archer (Midway-bound)",
+    "station_name": "35th/Archer",
+    "station_descriptive_name": "35th/Archer (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30214",
+    "map_id": "41120",
+    "direction_id": "S",
+    "stop_name": "35-Bronzeville-IIT (63rd-bound)",
+    "station_name": "35th-Bronzeville-IIT",
+    "station_descriptive_name": "35th-Bronzeville-IIT (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30213",
+    "map_id": "41120",
+    "direction_id": "N",
+    "stop_name": "35-Bronzeville-IIT (Harlem-bound)",
+    "station_name": "35th-Bronzeville-IIT",
+    "station_descriptive_name": "35th-Bronzeville-IIT (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30246",
+    "map_id": "41270",
+    "direction_id": "S",
+    "stop_name": "43rd (63rd-bound)",
+    "station_name": "43rd",
+    "station_descriptive_name": "43rd (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30245",
+    "map_id": "41270",
+    "direction_id": "N",
+    "stop_name": "43rd (Harlem-bound)",
+    "station_name": "43rd",
+    "station_descriptive_name": "43rd (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30025",
+    "map_id": "40130",
+    "direction_id": "S",
+    "stop_name": "51st (63rd-bound)",
+    "station_name": "51st",
+    "station_descriptive_name": "51st (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30024",
+    "map_id": "40130",
+    "direction_id": "N",
+    "stop_name": "51st (Harlem-bound)",
+    "station_name": "51st",
+    "station_descriptive_name": "51st (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30113",
+    "map_id": "40580",
+    "direction_id": "E",
+    "stop_name": "54th/Cermak (Loop-bound)",
+    "station_name": "54th/Cermak",
+    "station_descriptive_name": "54th/Cermak (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30114",
+    "map_id": "40580",
+    "direction_id": "W",
+    "stop_name": "54th/Cermak (Terminal arrival)",
+    "station_name": "54th/Cermak",
+    "station_descriptive_name": "54th/Cermak (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30192",
+    "map_id": "40990",
+    "direction_id": "S",
+    "stop_name": "69th (95th-bound)",
+    "station_name": "69th",
+    "station_descriptive_name": "69th (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30191",
+    "map_id": "40990",
+    "direction_id": "N",
+    "stop_name": "69th (Howard-bound)",
+    "station_name": "69th",
+    "station_descriptive_name": "69th (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30047",
+    "map_id": "40240",
+    "direction_id": "S",
+    "stop_name": "79th (95th-bound)",
+    "station_name": "79th",
+    "station_descriptive_name": "79th (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30046",
+    "map_id": "40240",
+    "direction_id": "N",
+    "stop_name": "79th (Howard-bound)",
+    "station_name": "79th",
+    "station_descriptive_name": "79th (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30089",
+    "map_id": "40450",
+    "direction_id": "S",
+    "stop_name": "95th/Dan Ryan (95th-bound)",
+    "station_name": "95th/Dan Ryan",
+    "station_descriptive_name": "95th/Dan Ryan (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30088",
+    "map_id": "40450",
+    "direction_id": "N",
+    "stop_name": "95th/Dan Ryan (Howard-bound)",
+    "station_name": "95th/Ran Ryan",
+    "station_descriptive_name": "95th/Ran Ryan (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30132",
+    "map_id": "40680",
+    "direction_id": "S",
+    "stop_name": "Adams/Wabash (Inner Loop)",
+    "station_name": "Adams/Wabash",
+    "station_descriptive_name": "Adams/Wabash (Brown, Green, Orange, Pink & Purple Lines)",
+    "station_lines": [
+      "green",
+      "pink",
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30131",
+    "map_id": "40680",
+    "direction_id": "N",
+    "stop_name": "Adams/Wabash (Outer Loop)",
+    "station_name": "Adams/Wabash",
+    "station_descriptive_name": "Adams/Wabash (Brown, Green, Orange, Pink & Purple Lines)",
+    "station_lines": [
+      "green",
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30277",
+    "map_id": "41440",
+    "direction_id": "N",
+    "stop_name": "Addison (Kimball-bound)",
+    "station_name": "Addison",
+    "station_descriptive_name": "Addison (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30278",
+    "map_id": "41440",
+    "direction_id": "S",
+    "stop_name": "Addison (Loop-bound)",
+    "station_name": "Addison",
+    "station_descriptive_name": "Addison (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30274",
+    "map_id": "41420",
+    "direction_id": "S",
+    "stop_name": "Addison (95th-bound)",
+    "station_name": "Addison",
+    "station_descriptive_name": "Addison (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30273",
+    "map_id": "41420",
+    "direction_id": "N",
+    "stop_name": "Addison (Howard-bound)",
+    "station_name": "Addison",
+    "station_descriptive_name": "Addison (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30230",
+    "map_id": "41200",
+    "direction_id": "S",
+    "stop_name": "Argyle (95th-bound)",
+    "station_name": "Argyle",
+    "station_descriptive_name": "Argyle (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30229",
+    "map_id": "41200",
+    "direction_id": "N",
+    "stop_name": "Argyle (Howard-bound)",
+    "station_name": "Argyle",
+    "station_descriptive_name": "Argyle (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30275",
+    "map_id": "41430",
+    "direction_id": "N",
+    "stop_name": "87th (Howard-bound)",
+    "station_name": "87th",
+    "station_descriptive_name": "87th (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30127",
+    "map_id": "40660",
+    "direction_id": "N",
+    "stop_name": "Armitage (Kimball-Linden-bound)",
+    "station_name": "Armitage",
+    "station_descriptive_name": "Armitage (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30128",
+    "map_id": "40660",
+    "direction_id": "S",
+    "stop_name": "Armitage (Loop-bound)",
+    "station_name": "Armitage",
+    "station_descriptive_name": "Armitage (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30205",
+    "map_id": "41060",
+    "direction_id": "N",
+    "stop_name": "Ashland (Loop-bound)",
+    "station_name": "Ashland",
+    "station_descriptive_name": "Ashland (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30206",
+    "map_id": "41060",
+    "direction_id": "S",
+    "stop_name": "Ashland (Midway-bound)",
+    "station_name": "Ashland",
+    "station_descriptive_name": "Ashland (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30056",
+    "map_id": "40290",
+    "direction_id": "E",
+    "stop_name": "Ashland/63rd (Harlem-bound)",
+    "station_name": "Ashland/63rd",
+    "station_descriptive_name": "Ashland/63rd (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30057",
+    "map_id": "40290",
+    "direction_id": "W",
+    "stop_name": "Ashland/63rd (Terminal arrival)",
+    "station_name": "Ashland/63rd",
+    "station_descriptive_name": "Ashland/63rd (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30002",
+    "map_id": "40010",
+    "direction_id": "W",
+    "stop_name": "Austin (Forest Pk-bound)",
+    "station_name": "Austin",
+    "station_descriptive_name": "Austin (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30001",
+    "map_id": "40010",
+    "direction_id": "E",
+    "stop_name": "Austin (O'Hare-bound)",
+    "station_name": "Austin",
+    "station_descriptive_name": "Austin (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30243",
+    "map_id": "41260",
+    "direction_id": "E",
+    "stop_name": "Austin (63rd-bound)",
+    "station_name": "Austin",
+    "station_descriptive_name": "Austin (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30244",
+    "map_id": "41260",
+    "direction_id": "W",
+    "stop_name": "Austin (Harlem-bound)",
+    "station_name": "Austin",
+    "station_descriptive_name": "Austin (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30013",
+    "map_id": "40060",
+    "direction_id": "S",
+    "stop_name": "Belmont (O'Hare Branch) (Forest Pk-bound)",
+    "station_name": "Belmont",
+    "station_descriptive_name": "Belmont (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30012",
+    "map_id": "40060",
+    "direction_id": "N",
+    "stop_name": "Belmont (O'Hare Branch) (O'Hare-bound)",
+    "station_name": "Belmont",
+    "station_descriptive_name": "Belmont (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30256",
+    "map_id": "41320",
+    "direction_id": "S",
+    "stop_name": "Belmont (95th-bound)",
+    "station_name": "Belmont",
+    "station_descriptive_name": "Belmont (Red, Brown & Purple Lines)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30255",
+    "map_id": "41320",
+    "direction_id": "N",
+    "stop_name": "Belmont (Howard-bound)",
+    "station_name": "Belmont",
+    "station_descriptive_name": "Belmont (Red, Brown & Purple Lines)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30257",
+    "map_id": "41320",
+    "direction_id": "N",
+    "stop_name": "Belmont (Kimball-Linden-bound)",
+    "station_name": "Belmont",
+    "station_descriptive_name": "Belmont (Red, Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30258",
+    "map_id": "41320",
+    "direction_id": "S",
+    "stop_name": "Belmont (Loop-bound)",
+    "station_name": "Belmont",
+    "station_descriptive_name": "Belmont (Red, Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30067",
+    "map_id": "40340",
+    "direction_id": "S",
+    "stop_name": "Berwyn (95th-bound)",
+    "station_name": "Berwyn",
+    "station_descriptive_name": "Berwyn (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30066",
+    "map_id": "40340",
+    "direction_id": "N",
+    "stop_name": "Berwyn (Howard-bound)",
+    "station_name": "Berwyn",
+    "station_descriptive_name": "Berwyn (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30268",
+    "map_id": "41380",
+    "direction_id": "S",
+    "stop_name": "Bryn Mawr (95th-bound)",
+    "station_name": "Bryn Mawr",
+    "station_descriptive_name": "Bryn Mawr (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30267",
+    "map_id": "41380",
+    "direction_id": "N",
+    "stop_name": "Bryn Mawr (Howard-bound)",
+    "station_name": "Bryn Mawr",
+    "station_descriptive_name": "Bryn Mawr (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30087",
+    "map_id": "40440",
+    "direction_id": "W",
+    "stop_name": "California (54th/Cermak-bound)",
+    "station_name": "California",
+    "station_descriptive_name": "California (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30086",
+    "map_id": "40440",
+    "direction_id": "E",
+    "stop_name": "California (Loop-bound)",
+    "station_name": "California",
+    "station_descriptive_name": "California (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30265",
+    "map_id": "41360",
+    "direction_id": "E",
+    "stop_name": "California (63rd-bound)",
+    "station_name": "California",
+    "station_descriptive_name": "California (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30266",
+    "map_id": "41360",
+    "direction_id": "W",
+    "stop_name": "California (Harlem-bound)",
+    "station_name": "California",
+    "station_descriptive_name": "California (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30054",
+    "map_id": "40280",
+    "direction_id": "E",
+    "stop_name": "Central (63rd-bound)",
+    "station_name": "Central",
+    "station_descriptive_name": "Central (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30055",
+    "map_id": "40280",
+    "direction_id": "W",
+    "stop_name": "Central (Harlem-bound)",
+    "station_name": "Central",
+    "station_descriptive_name": "Central (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30152",
+    "map_id": "40780",
+    "direction_id": "W",
+    "stop_name": "Central Park (54th/Cermak-bound)",
+    "station_name": "Central Park",
+    "station_descriptive_name": "Central Park (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30151",
+    "map_id": "40780",
+    "direction_id": "E",
+    "stop_name": "Central Park (Loop-bound)",
+    "station_name": "Central Park",
+    "station_descriptive_name": "Central Park (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30194",
+    "map_id": "41000",
+    "direction_id": "S",
+    "stop_name": "Cermak-Chinatown (95th-bound)",
+    "station_name": "Cermak-Chinatown",
+    "station_descriptive_name": "Cermak-Chinatown (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30193",
+    "map_id": "41000",
+    "direction_id": "N",
+    "stop_name": "Cermak-Chinatown (Howard-bound)",
+    "station_name": "Cermak-Chinatown",
+    "station_descriptive_name": "Cermak-Chinatown (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30242",
+    "map_id": "41250",
+    "direction_id": "S",
+    "stop_name": "Central (Howard-Loop-bound)",
+    "station_name": "Central",
+    "station_descriptive_name": "Central (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30241",
+    "map_id": "41250",
+    "direction_id": "N",
+    "stop_name": "Central (Linden-bound)",
+    "station_name": "Central",
+    "station_descriptive_name": "Central (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30083",
+    "map_id": "40420",
+    "direction_id": "W",
+    "stop_name": "Cicero (54th/Cermak-bound)",
+    "station_name": "Cicero",
+    "station_descriptive_name": "Cicero (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30082",
+    "map_id": "40420",
+    "direction_id": "E",
+    "stop_name": "Cicero (Loop-bound)",
+    "station_name": "Cicero",
+    "station_descriptive_name": "Cicero (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30188",
+    "map_id": "40970",
+    "direction_id": "W",
+    "stop_name": "Cicero (Forest Pk-bound)",
+    "station_name": "Cicero",
+    "station_descriptive_name": "Cicero (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30187",
+    "map_id": "40970",
+    "direction_id": "E",
+    "stop_name": "Cicero (O'Hare-bound)",
+    "station_name": "Cicero",
+    "station_descriptive_name": "Cicero (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30094",
+    "map_id": "40480",
+    "direction_id": "E",
+    "stop_name": "Cicero (63rd-bound)",
+    "station_name": "Cicero",
+    "station_descriptive_name": "Cicero (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30009",
+    "map_id": "40480",
+    "direction_id": "W",
+    "stop_name": "Cicero (Harlem-bound)",
+    "station_name": "Cicero",
+    "station_descriptive_name": "Cicero (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30074",
+    "map_id": "40380",
+    "direction_id": "E",
+    "stop_name": "Clark/Lake (Inner Loop)",
+    "station_name": "Clark/Lake",
+    "station_descriptive_name": "Clark/Lake (Blue, Brown, Green, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "green",
+      "pink",
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30075",
+    "map_id": "40380",
+    "direction_id": "W",
+    "stop_name": "Clark/Lake (Outer Loop)",
+    "station_name": "Clark/Lake",
+    "station_descriptive_name": "Clark/Lake (Blue, Brown, Green, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "green",
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30374",
+    "map_id": "40380",
+    "direction_id": "S",
+    "stop_name": "Clark/Lake (Forest Pk-bound)",
+    "station_name": "Clark/Lake",
+    "station_descriptive_name": "Clark/Lake (Blue, Brown, Green, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30375",
+    "map_id": "40380",
+    "direction_id": "N",
+    "stop_name": "Clark/Lake (O'Hare-bound)",
+    "station_name": "Clark/Lake",
+    "station_descriptive_name": "Clark/Lake (Blue, Brown, Green, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30085",
+    "map_id": "40430",
+    "direction_id": "W",
+    "stop_name": "Clinton (Forest Pk-bound)",
+    "station_name": "Clinton",
+    "station_descriptive_name": "Clinton (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30084",
+    "map_id": "40430",
+    "direction_id": "E",
+    "stop_name": "Clinton (O'Hare-bound)",
+    "station_name": "Clinton",
+    "station_descriptive_name": "Clinton (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30222",
+    "map_id": "41160",
+    "direction_id": "W",
+    "stop_name": "Clinton (Harlem-54th/Cermak-bound)",
+    "station_name": "Clinton",
+    "station_descriptive_name": "Clinton (Green & Pink Lines)",
+    "station_lines": [
+      "green",
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30221",
+    "map_id": "41160",
+    "direction_id": "E",
+    "stop_name": "Clinton (Loop-63rd-bound)",
+    "station_name": "Clinton",
+    "station_descriptive_name": "Clinton (Green & Pink Lines)",
+    "station_lines": [
+      "green",
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30291",
+    "map_id": "41670",
+    "direction_id": "E",
+    "stop_name": "Conservatory (63rd-bound)",
+    "station_name": "Conservatory",
+    "station_descriptive_name": "Conservatory (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30292",
+    "map_id": "41670",
+    "direction_id": "W",
+    "stop_name": "Conservatory (Harlem-bound)",
+    "station_name": "Conservatory",
+    "station_descriptive_name": "Conservatory (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30139",
+    "map_id": "40720",
+    "direction_id": "E",
+    "stop_name": "Cottage Grove (Terminal arrival)",
+    "station_name": "Cottage Grove",
+    "station_descriptive_name": "Cottage Grove (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30045",
+    "map_id": "40230",
+    "direction_id": "S",
+    "stop_name": "Cumberland (Forest Pk-bound)",
+    "station_name": "Cumberland",
+    "station_descriptive_name": "Cumberland (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30044",
+    "map_id": "40230",
+    "direction_id": "N",
+    "stop_name": "Cumberland (O'Hare-bound)",
+    "station_name": "Cumberland",
+    "station_descriptive_name": "Cumberland (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30041",
+    "map_id": "40210",
+    "direction_id": "W",
+    "stop_name": "Damen (54th/Cermak-bound)",
+    "station_name": "Damen",
+    "station_descriptive_name": "Damen (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30040",
+    "map_id": "40210",
+    "direction_id": "E",
+    "stop_name": "Damen (Loop-bound)",
+    "station_name": "Damen",
+    "station_descriptive_name": "Damen (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30116",
+    "map_id": "40590",
+    "direction_id": "S",
+    "stop_name": "Damen/Milwaukee (Forest Pk-bound)",
+    "station_name": "Damen",
+    "station_descriptive_name": "Damen (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30115",
+    "map_id": "40590",
+    "direction_id": "N",
+    "stop_name": "Damen/Milwaukee (O'Hare-bound)",
+    "station_name": "Damen",
+    "station_descriptive_name": "Damen (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30018",
+    "map_id": "40090",
+    "direction_id": "N",
+    "stop_name": "Damen (Kimball-bound)",
+    "station_name": "Damen",
+    "station_descriptive_name": "Damen (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30019",
+    "map_id": "40090",
+    "direction_id": "S",
+    "stop_name": "Damen (Loop-bound)",
+    "station_name": "Damen",
+    "station_descriptive_name": "Damen (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30011",
+    "map_id": "40050",
+    "direction_id": "S",
+    "stop_name": "Davis (Howard-Loop-bound)",
+    "station_name": "Davis",
+    "station_descriptive_name": "Davis (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30010",
+    "map_id": "40050",
+    "direction_id": "N",
+    "stop_name": "Davis (Linden-bound)",
+    "station_name": "Davis",
+    "station_descriptive_name": "Davis (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30134",
+    "map_id": "40690",
+    "direction_id": "S",
+    "stop_name": "Dempster (Howard-Loop-bound)",
+    "station_name": "Dempster",
+    "station_descriptive_name": "Dempster (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30133",
+    "map_id": "40690",
+    "direction_id": "N",
+    "stop_name": "Dempster (Linden-bound)",
+    "station_name": "Dempster",
+    "station_descriptive_name": "Dempster (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30103",
+    "map_id": "40530",
+    "direction_id": "N",
+    "stop_name": "Diversey (Kimball-Linden-bound)",
+    "station_name": "Diversey",
+    "station_descriptive_name": "Diversey (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30104",
+    "map_id": "40530",
+    "direction_id": "S",
+    "stop_name": "Diversey (Loop-bound)",
+    "station_name": "Diversey",
+    "station_descriptive_name": "Diversey (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30063",
+    "map_id": "40320",
+    "direction_id": "S",
+    "stop_name": "Division (Forest Pk-bound)",
+    "station_name": "Division",
+    "station_descriptive_name": "Division (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30076",
+    "map_id": "40390",
+    "direction_id": "E",
+    "stop_name": "Forest Park (O'Hare-bound)",
+    "station_name": "Forest Park",
+    "station_descriptive_name": "Forest Park (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30077",
+    "map_id": "40390",
+    "direction_id": "W",
+    "stop_name": "Forest Park (Terminal Arrival)",
+    "station_name": "Forest Park",
+    "station_descriptive_name": "Forest Park (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30102",
+    "map_id": "40520",
+    "direction_id": "S",
+    "stop_name": "Foster (Howard-Loop-bound)",
+    "station_name": "Foster",
+    "station_descriptive_name": "Foster (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30101",
+    "map_id": "40520",
+    "direction_id": "N",
+    "stop_name": "Foster (Linden-bound)",
+    "station_name": "Foster",
+    "station_descriptive_name": "Foster (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30167",
+    "map_id": "40870",
+    "direction_id": "N",
+    "stop_name": "Francisco (Kimball-bound)",
+    "station_name": "Francisco",
+    "station_descriptive_name": "Francisco (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30168",
+    "map_id": "40870",
+    "direction_id": "S",
+    "stop_name": "Francisco (Loop-bound)",
+    "station_name": "Francisco",
+    "station_descriptive_name": "Francisco (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30234",
+    "map_id": "41220",
+    "direction_id": "S",
+    "stop_name": "Fullerton (95th-bound)",
+    "station_name": "Fullerton",
+    "station_descriptive_name": "Fullerton (Red, Brown & Purple Lines)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30233",
+    "map_id": "41220",
+    "direction_id": "N",
+    "stop_name": "Fullerton (Howard-bound)",
+    "station_name": "Fullerton",
+    "station_descriptive_name": "Fullerton (Red, Brown & Purple Lines)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30235",
+    "map_id": "41220",
+    "direction_id": "N",
+    "stop_name": "Fullerton (Kimball-Linden-bound)",
+    "station_name": "Fullerton",
+    "station_descriptive_name": "Fullerton (Red, Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30236",
+    "map_id": "41220",
+    "direction_id": "S",
+    "stop_name": "Fullerton (Loop-bound)",
+    "station_name": "Fullerton",
+    "station_descriptive_name": "Fullerton (Red, Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30100",
+    "map_id": "40510",
+    "direction_id": "S",
+    "stop_name": "Garfield (63rd-bound)",
+    "station_name": "Garfield",
+    "station_descriptive_name": "Garfield (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30099",
+    "map_id": "40510",
+    "direction_id": "N",
+    "stop_name": "Garfield (Harlem-bound)",
+    "station_name": "Garfield",
+    "station_descriptive_name": "Garfield (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30096",
+    "map_id": "40490",
+    "direction_id": "S",
+    "stop_name": "Grand/Milwaukee (Forest Pk-bound)",
+    "station_name": "Grand",
+    "station_descriptive_name": "Grand (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30095",
+    "map_id": "40490",
+    "direction_id": "N",
+    "stop_name": "Grand/Milwaukee (O'Hare-bound)",
+    "station_name": "Grand",
+    "station_descriptive_name": "Grand (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30065",
+    "map_id": "40330",
+    "direction_id": "S",
+    "stop_name": "Grand/State (95th-bound)",
+    "station_name": "Grand",
+    "station_descriptive_name": "Grand (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30064",
+    "map_id": "40330",
+    "direction_id": "N",
+    "stop_name": "Grand/State (Howard-bound)",
+    "station_name": "Grand",
+    "station_descriptive_name": "Grand (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30148",
+    "map_id": "40760",
+    "direction_id": "S",
+    "stop_name": "Granville (95th-bound)",
+    "station_name": "Granville",
+    "station_descriptive_name": "Granville (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30147",
+    "map_id": "40760",
+    "direction_id": "N",
+    "stop_name": "Granville (Howard-bound)",
+    "station_name": "Granville",
+    "station_descriptive_name": "Granville (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30215",
+    "map_id": "41130",
+    "direction_id": "N",
+    "stop_name": "Halsted (Loop-bound)",
+    "station_name": "Halsted",
+    "station_descriptive_name": "Halsted (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30216",
+    "map_id": "41130",
+    "direction_id": "S",
+    "stop_name": "Halsted (Midway-bound)",
+    "station_name": "Halsted",
+    "station_descriptive_name": "Halsted (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30184",
+    "map_id": "40940",
+    "direction_id": "W",
+    "stop_name": "Halsted/63rd (Ashland-bound)",
+    "station_name": "Halsted",
+    "station_descriptive_name": "Halsted (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30183",
+    "map_id": "40940",
+    "direction_id": "E",
+    "stop_name": "Halsted/63rd (Harlem-bound)",
+    "station_name": "Halsted",
+    "station_descriptive_name": "Halsted (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30146",
+    "map_id": "40750",
+    "direction_id": "S",
+    "stop_name": "Harlem (O'Hare Branch) (Forest Pk-bound)",
+    "station_name": "Harlem",
+    "station_descriptive_name": "Harlem (Blue Line - O'Hare Branch)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30145",
+    "map_id": "40750",
+    "direction_id": "N",
+    "stop_name": "Harlem (O'Hare Branch) (O'Hare-bound)",
+    "station_name": "Harlem",
+    "station_descriptive_name": "Harlem (Blue Line - O'Hare Branch)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30004",
+    "map_id": "40020",
+    "direction_id": "W",
+    "stop_name": "Harlem (Terminal arrival)",
+    "station_name": "Harlem/Lake",
+    "station_descriptive_name": "Harlem/Lake (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30003",
+    "map_id": "40020",
+    "direction_id": "E",
+    "stop_name": "Harlem (63rd-bound)",
+    "station_name": "Harlem/Lake",
+    "station_descriptive_name": "Harlem/Lake (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30286",
+    "map_id": "41490",
+    "direction_id": "S",
+    "stop_name": "Harrison (95th-bound)",
+    "station_name": "Harrison",
+    "station_descriptive_name": "Harrison (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30285",
+    "map_id": "41490",
+    "direction_id": "N",
+    "stop_name": "Harrison (Howard-bound)",
+    "station_name": "Harrison",
+    "station_descriptive_name": "Harrison (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30062",
+    "map_id": "40320",
+    "direction_id": "N",
+    "stop_name": "Division (O'Hare-bound)",
+    "station_name": "Division",
+    "station_descriptive_name": "Division (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30224",
+    "map_id": "41170",
+    "direction_id": "S",
+    "stop_name": "Garfield (95th-bound)",
+    "station_name": "Garfield",
+    "station_descriptive_name": "Garfield (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30189",
+    "map_id": "40980",
+    "direction_id": "E",
+    "stop_name": "Harlem (Forest Pk Branch) (O'Hare-bound)",
+    "station_name": "Harlem",
+    "station_descriptive_name": "Harlem (Blue Line - Forest Park Branch)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30166",
+    "map_id": "40850",
+    "direction_id": "W",
+    "stop_name": "H.W. Library (Inner Loop)",
+    "station_name": "Harold Washington Library-State/Van Buren",
+    "station_descriptive_name": "Harold Washington Library-State/Van Buren (Brown, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "pink",
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30176",
+    "map_id": "40900",
+    "direction_id": "S",
+    "stop_name": "Howard (Terminal arrival)",
+    "station_name": "Howard",
+    "station_descriptive_name": "Howard (Red, Purple & Yellow Lines)",
+    "station_lines": [
+      "purple",
+      "yellow"
+    ]
+  },
+  {
+    "stop_id": "30173",
+    "map_id": "40900",
+    "direction_id": "N",
+    "stop_name": "Howard (Terminal arrival)",
+    "station_name": "Howard",
+    "station_descriptive_name": "Howard (Red, Purple & Yellow Lines)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30174",
+    "map_id": "40900",
+    "direction_id": "S",
+    "stop_name": "Howard (95th-Bound)",
+    "station_name": "Howard",
+    "station_descriptive_name": "Howard (Red, Purple & Yellow Lines)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30158",
+    "map_id": "40810",
+    "direction_id": "W",
+    "stop_name": "Illinois Medical District (Forest Pk-bound)",
+    "station_name": "Illinois Medical District",
+    "station_descriptive_name": "Illinois Medical District (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30157",
+    "map_id": "40810",
+    "direction_id": "E",
+    "stop_name": "Illinois Medical District (O'Hare-bound)",
+    "station_name": "Illinois Medical District",
+    "station_descriptive_name": "Illinois Medical District (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30059",
+    "map_id": "40300",
+    "direction_id": "S",
+    "stop_name": "Indiana (63rd-bound)",
+    "station_name": "Indiana",
+    "station_descriptive_name": "Indiana (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30058",
+    "map_id": "40300",
+    "direction_id": "N",
+    "stop_name": "Indiana (Harlem-bound)",
+    "station_name": "Indiana",
+    "station_descriptive_name": "Indiana (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30108",
+    "map_id": "40550",
+    "direction_id": "S",
+    "stop_name": "Irving Park (O'Hare Branch) (Forest Pk-bound)",
+    "station_name": "Irving Park",
+    "station_descriptive_name": "Irving Park (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30107",
+    "map_id": "40550",
+    "direction_id": "N",
+    "stop_name": "Irving Park (O'Hare Branch) (O'Hare-bound)",
+    "station_name": "Irving Park",
+    "station_descriptive_name": "Irving Park (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30281",
+    "map_id": "41460",
+    "direction_id": "N",
+    "stop_name": "Irving Park (Kimball-bound)",
+    "station_name": "Irving Park",
+    "station_descriptive_name": "Irving Park (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30282",
+    "map_id": "41460",
+    "direction_id": "S",
+    "stop_name": "Irving Park (Loop-bound)",
+    "station_name": "Irving Park",
+    "station_descriptive_name": "Irving Park (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30015",
+    "map_id": "40070",
+    "direction_id": "S",
+    "stop_name": "Jackson/Dearborn (Forest Pk-bound)",
+    "station_name": "Jackson",
+    "station_descriptive_name": "Jackson (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30014",
+    "map_id": "40070",
+    "direction_id": "N",
+    "stop_name": "Jackson/Dearborn (O'Hare-bound)",
+    "station_name": "Jackson",
+    "station_descriptive_name": "Jackson (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30110",
+    "map_id": "40560",
+    "direction_id": "S",
+    "stop_name": "Jackson/State (95th-bound)",
+    "station_name": "Jackson",
+    "station_descriptive_name": "Jackson (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30109",
+    "map_id": "40560",
+    "direction_id": "N",
+    "stop_name": "Jackson/State (Howard-bound)",
+    "station_name": "Jackson",
+    "station_descriptive_name": "Jackson (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30228",
+    "map_id": "41190",
+    "direction_id": "S",
+    "stop_name": "Jarvis (95th-bound)",
+    "station_name": "Jarvis",
+    "station_descriptive_name": "Jarvis (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30227",
+    "map_id": "41190",
+    "direction_id": "N",
+    "stop_name": "Jarvis (Howard-bound)",
+    "station_name": "Jarvis",
+    "station_descriptive_name": "Jarvis (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30248",
+    "map_id": "41280",
+    "direction_id": "S",
+    "stop_name": "Jefferson Park (Forest Pk-bound)",
+    "station_name": "Jefferson Park",
+    "station_descriptive_name": "Jefferson Park (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30247",
+    "map_id": "41280",
+    "direction_id": "N",
+    "stop_name": "Jefferson Park (O'Hare-bound)",
+    "station_name": "Jefferson Park",
+    "station_descriptive_name": "Jefferson Park (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30219",
+    "map_id": "41150",
+    "direction_id": "N",
+    "stop_name": "Kedzie (Loop-bound)",
+    "station_name": "Kedzie",
+    "station_descriptive_name": "Kedzie (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30220",
+    "map_id": "41150",
+    "direction_id": "S",
+    "stop_name": "Kedzie (Midway-bound)",
+    "station_name": "Kedzie",
+    "station_descriptive_name": "Kedzie (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30202",
+    "map_id": "41040",
+    "direction_id": "W",
+    "stop_name": "Kedzie (54th/Cermak-bound)",
+    "station_name": "Kedzie",
+    "station_descriptive_name": "Kedzie (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30201",
+    "map_id": "41040",
+    "direction_id": "E",
+    "stop_name": "Kedzie (Loop-bound)",
+    "station_name": "Kedzie",
+    "station_descriptive_name": "Kedzie (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30225",
+    "map_id": "41180",
+    "direction_id": "N",
+    "stop_name": "Kedzie (Kimball-bound)",
+    "station_name": "Kedzie",
+    "station_descriptive_name": "Kedzie (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30226",
+    "map_id": "41180",
+    "direction_id": "S",
+    "stop_name": "Kedzie (Loop-bound)",
+    "station_name": "Kedzie",
+    "station_descriptive_name": "Kedzie (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30207",
+    "map_id": "41070",
+    "direction_id": "E",
+    "stop_name": "Kedzie (63rd-bound)",
+    "station_name": "Kedzie",
+    "station_descriptive_name": "Kedzie (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30208",
+    "map_id": "41070",
+    "direction_id": "W",
+    "stop_name": "Kedzie (Harlem-bound)",
+    "station_name": "Kedzie",
+    "station_descriptive_name": "Kedzie (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30049",
+    "map_id": "40250",
+    "direction_id": "W",
+    "stop_name": "Kedzie-Homan (Forest Pk-bound)",
+    "station_name": "Kedzie-Homan",
+    "station_descriptive_name": "Kedzie-Homan (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30048",
+    "map_id": "40250",
+    "direction_id": "E",
+    "stop_name": "Kedzie-Homan (O'Hare-bound)",
+    "station_name": "Kedzie-Homan",
+    "station_descriptive_name": "Kedzie-Homan (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30250",
+    "map_id": "41290",
+    "direction_id": "S",
+    "stop_name": "Kimball (Loop-bound)",
+    "station_name": "Kimball",
+    "station_descriptive_name": "Kimball (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30249",
+    "map_id": "41290",
+    "direction_id": "N",
+    "stop_name": "Kimball (Terminal arrival)",
+    "station_name": "Kimball",
+    "station_descriptive_name": "Kimball (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30217",
+    "map_id": "41140",
+    "direction_id": "E",
+    "stop_name": "King Drive (Cottage Grove-bound)",
+    "station_name": "King Drive",
+    "station_descriptive_name": "King Drive (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30218",
+    "map_id": "41140",
+    "direction_id": "W",
+    "stop_name": "King Drive (Harlem-bound)",
+    "station_name": "King Drive",
+    "station_descriptive_name": "King Drive (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30118",
+    "map_id": "40600",
+    "direction_id": "W",
+    "stop_name": "Kostner (54th/Cermak-bound)",
+    "station_name": "Kostner",
+    "station_descriptive_name": "Kostner (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30117",
+    "map_id": "40600",
+    "direction_id": "E",
+    "stop_name": "Kostner (Loop-bound)",
+    "station_name": "Kostner",
+    "station_descriptive_name": "Kostner (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30135",
+    "map_id": "40700",
+    "direction_id": "E",
+    "stop_name": "Laramie (63rd-bound)",
+    "station_name": "Laramie",
+    "station_descriptive_name": "Laramie (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30136",
+    "map_id": "40700",
+    "direction_id": "W",
+    "stop_name": "Laramie (Harlem-bound)",
+    "station_name": "Laramie",
+    "station_descriptive_name": "Laramie (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30262",
+    "map_id": "41340",
+    "direction_id": "W",
+    "stop_name": "LaSalle (Forest Pk-bound)",
+    "station_name": "LaSalle",
+    "station_descriptive_name": "LaSalle (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30261",
+    "map_id": "41340",
+    "direction_id": "E",
+    "stop_name": "LaSalle (O'Hare-bound)",
+    "station_name": "LaSalle",
+    "station_descriptive_name": "LaSalle (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30031",
+    "map_id": "40160",
+    "direction_id": "W",
+    "stop_name": "LaSalle/Van Buren (Inner Loop)",
+    "station_name": "LaSalle/Van Buren",
+    "station_descriptive_name": "LaSalle/Van Buren (Brown, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "pink",
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30030",
+    "map_id": "40160",
+    "direction_id": "E",
+    "stop_name": "LaSalle/Van Buren (Outer Loop)",
+    "station_name": "LaSalle/Van Buren",
+    "station_descriptive_name": "LaSalle/Van Buren (Brown, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30150",
+    "map_id": "40770",
+    "direction_id": "S",
+    "stop_name": "Lawrence (95th-bound)",
+    "station_name": "Lawrence",
+    "station_descriptive_name": "Lawrence (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30149",
+    "map_id": "40770",
+    "direction_id": "N",
+    "stop_name": "Lawrence (Howard-bound)",
+    "station_name": "Lawrence",
+    "station_descriptive_name": "Lawrence (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30204",
+    "map_id": "41050",
+    "direction_id": "S",
+    "stop_name": "Linden (Howard-Loop-bound)",
+    "station_name": "Linden",
+    "station_descriptive_name": "Linden (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30203",
+    "map_id": "41050",
+    "direction_id": "N",
+    "stop_name": "Linden (Linden-bound)",
+    "station_name": "Linden",
+    "station_descriptive_name": "Linden (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30198",
+    "map_id": "41020",
+    "direction_id": "S",
+    "stop_name": "Logan Square (Forest Pk-bound)",
+    "station_name": "Logan Square",
+    "station_descriptive_name": "Logan Square (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30197",
+    "map_id": "41020",
+    "direction_id": "N",
+    "stop_name": "Logan Square (O'Hare-bound)",
+    "station_name": "Logan Square",
+    "station_descriptive_name": "Logan Square (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30252",
+    "map_id": "41300",
+    "direction_id": "S",
+    "stop_name": "Loyola (95th-bound)",
+    "station_name": "Loyola",
+    "station_descriptive_name": "Loyola (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30251",
+    "map_id": "41300",
+    "direction_id": "N",
+    "stop_name": "Loyola (Howard-bound)",
+    "station_name": "Loyola",
+    "station_descriptive_name": "Loyola (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30053",
+    "map_id": "40270",
+    "direction_id": "S",
+    "stop_name": "Main (Howard-Loop-bound)",
+    "station_name": "Main",
+    "station_descriptive_name": "Main (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30052",
+    "map_id": "40270",
+    "direction_id": "N",
+    "stop_name": "Main (Linden-bound)",
+    "station_name": "Main",
+    "station_descriptive_name": "Main (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30090",
+    "map_id": "40460",
+    "direction_id": "N",
+    "stop_name": "Merchandise Mart (Kimball-Linden-bound)",
+    "station_name": "Merchandise Mart",
+    "station_descriptive_name": "Merchandise Mart (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30091",
+    "map_id": "40460",
+    "direction_id": "S",
+    "stop_name": "Merchandise Mart (Loop-bound)",
+    "station_name": "Merchandise Mart",
+    "station_descriptive_name": "Merchandise Mart (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30182",
+    "map_id": "40930",
+    "direction_id": "S",
+    "stop_name": "Midway (Arrival)",
+    "station_name": "Midway",
+    "station_descriptive_name": "Midway (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30181",
+    "map_id": "40930",
+    "direction_id": "N",
+    "stop_name": "Midway (Loop-bound)",
+    "station_name": "Midway",
+    "station_descriptive_name": "Midway (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30260",
+    "map_id": "41330",
+    "direction_id": "S",
+    "stop_name": "Montrose (Forest Pk-bound)",
+    "station_name": "Montrose",
+    "station_descriptive_name": "Montrose (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30259",
+    "map_id": "41330",
+    "direction_id": "N",
+    "stop_name": "Montrose (O'Hare-bound)",
+    "station_name": "Montrose",
+    "station_descriptive_name": "Montrose (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30287",
+    "map_id": "41500",
+    "direction_id": "N",
+    "stop_name": "Montrose (Kimball-bound)",
+    "station_name": "Montrose",
+    "station_descriptive_name": "Montrose (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30288",
+    "map_id": "41500",
+    "direction_id": "S",
+    "stop_name": "Montrose (Loop-bound)",
+    "station_name": "Montrose",
+    "station_descriptive_name": "Montrose (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30296",
+    "map_id": "41510",
+    "direction_id": "W",
+    "stop_name": "Morgan (Harlem-54th/Cermak-bound)",
+    "station_name": "Morgan",
+    "station_descriptive_name": "Morgan (Green & Pink Lines)",
+    "station_lines": [
+      "green",
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30295",
+    "map_id": "41510",
+    "direction_id": "E",
+    "stop_name": "Morgan (Loop-63rd-bound)",
+    "station_name": "Morgan",
+    "station_descriptive_name": "Morgan (Green & Pink Lines)",
+    "station_lines": [
+      "green",
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30021",
+    "map_id": "40100",
+    "direction_id": "S",
+    "stop_name": "Morse (95th-bound)",
+    "station_name": "Morse",
+    "station_descriptive_name": "Morse (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30290",
+    "map_id": "41660",
+    "direction_id": "S",
+    "stop_name": "Lake (95th-bound)",
+    "station_name": "Lake",
+    "station_descriptive_name": "Lake (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30154",
+    "map_id": "40790",
+    "direction_id": "S",
+    "stop_name": "Monroe (Forest Pk-bound)",
+    "station_name": "Monroe",
+    "station_descriptive_name": "Monroe (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30212",
+    "map_id": "41090",
+    "direction_id": "S",
+    "stop_name": "Monroe (95th-bound)",
+    "station_name": "Monroe",
+    "station_descriptive_name": "Monroe (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30211",
+    "map_id": "41090",
+    "direction_id": "N",
+    "stop_name": "Monroe (Howard-bound)",
+    "station_name": "Monroe",
+    "station_descriptive_name": "Monroe (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30153",
+    "map_id": "40790",
+    "direction_id": "N",
+    "stop_name": "Monroe (O'Hare-bound)",
+    "station_name": "Monroe",
+    "station_descriptive_name": "Monroe (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30020",
+    "map_id": "40100",
+    "direction_id": "N",
+    "stop_name": "Morse (Howard-bound)",
+    "station_name": "Morse",
+    "station_descriptive_name": "Morse (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30126",
+    "map_id": "40650",
+    "direction_id": "S",
+    "stop_name": "North/Clybourn (95th-bound)",
+    "station_name": "North/Clybourn",
+    "station_descriptive_name": "North/Clybourn (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30125",
+    "map_id": "40650",
+    "direction_id": "N",
+    "stop_name": "North/Clybourn (Howard-bound)",
+    "station_name": "North/Clybourn",
+    "station_descriptive_name": "North/Clybourn (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30079",
+    "map_id": "40400",
+    "direction_id": "S",
+    "stop_name": "Noyes (Howard-Loop-bound)",
+    "station_name": "Noyes",
+    "station_descriptive_name": "Noyes (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30078",
+    "map_id": "40400",
+    "direction_id": "N",
+    "stop_name": "Noyes (Linden-bound)",
+    "station_name": "Noyes",
+    "station_descriptive_name": "Noyes (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30035",
+    "map_id": "40180",
+    "direction_id": "W",
+    "stop_name": "Oak Park (Forest Pk-bound)",
+    "station_name": "Oak Park",
+    "station_descriptive_name": "Oak Park (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30034",
+    "map_id": "40180",
+    "direction_id": "E",
+    "stop_name": "Oak Park (O'Hare-bound)",
+    "station_name": "Oak Park",
+    "station_descriptive_name": "Oak Park (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30263",
+    "map_id": "41350",
+    "direction_id": "E",
+    "stop_name": "Oak Park (63rd-bound)",
+    "station_name": "Oak Park",
+    "station_descriptive_name": "Oak Park (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30264",
+    "map_id": "41350",
+    "direction_id": "W",
+    "stop_name": "Oak Park (Harlem-bound)",
+    "station_name": "Oak Park",
+    "station_descriptive_name": "Oak Park (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30253",
+    "map_id": "41310",
+    "direction_id": "N",
+    "stop_name": "Paulina (Kimball-bound)",
+    "station_name": "Paulina",
+    "station_descriptive_name": "Paulina (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30254",
+    "map_id": "41310",
+    "direction_id": "S",
+    "stop_name": "Paulina (Loop-bound)",
+    "station_name": "Paulina",
+    "station_descriptive_name": "Paulina (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30200",
+    "map_id": "41030",
+    "direction_id": "W",
+    "stop_name": "Polk (54th/Cermak-bound)",
+    "station_name": "Polk",
+    "station_descriptive_name": "Polk (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30199",
+    "map_id": "41030",
+    "direction_id": "E",
+    "stop_name": "Polk (Loop-bound)",
+    "station_name": "Polk",
+    "station_descriptive_name": "Polk (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30185",
+    "map_id": "40960",
+    "direction_id": "N",
+    "stop_name": "Pulaski (Loop-bound)",
+    "station_name": "Pulaski",
+    "station_descriptive_name": "Pulaski (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30186",
+    "map_id": "40960",
+    "direction_id": "S",
+    "stop_name": "Pulaski (Midway-bound)",
+    "station_name": "Pulaski",
+    "station_descriptive_name": "Pulaski (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30029",
+    "map_id": "40150",
+    "direction_id": "W",
+    "stop_name": "Pulaski (54th/Cermak-bound)",
+    "station_name": "Pulaski",
+    "station_descriptive_name": "Pulaski (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30028",
+    "map_id": "40150",
+    "direction_id": "E",
+    "stop_name": "Pulaski (Loop-bound)",
+    "station_name": "Pulaski",
+    "station_descriptive_name": "Pulaski (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30180",
+    "map_id": "40920",
+    "direction_id": "W",
+    "stop_name": "Pulaski (Forest Pk-bound)",
+    "station_name": "Pulaski",
+    "station_descriptive_name": "Pulaski (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30179",
+    "map_id": "40920",
+    "direction_id": "E",
+    "stop_name": "Pulaski (O'Hare-bound)",
+    "station_name": "Pulaski",
+    "station_descriptive_name": "Pulaski (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30005",
+    "map_id": "40030",
+    "direction_id": "E",
+    "stop_name": "Pulaski (63rd-bound)",
+    "station_name": "Pulaski",
+    "station_descriptive_name": "Pulaski (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30006",
+    "map_id": "40030",
+    "direction_id": "W",
+    "stop_name": "Pulaski (Harlem-bound)",
+    "station_name": "Pulaski",
+    "station_descriptive_name": "Pulaski (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30007",
+    "map_id": "40040",
+    "direction_id": "N",
+    "stop_name": "Quincy/Wells (Inner Loop)",
+    "station_name": "Quincy/Wells",
+    "station_descriptive_name": "Quincy/Wells (Brown, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "pink",
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30008",
+    "map_id": "40040",
+    "direction_id": "S",
+    "stop_name": "Quincy/Wells (Outer Loop)",
+    "station_name": "Quincy/Wells",
+    "station_descriptive_name": "Quincy/Wells (Brown, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30093",
+    "map_id": "40470",
+    "direction_id": "W",
+    "stop_name": "Racine (Forest Pk-bound)",
+    "station_name": "Racine",
+    "station_descriptive_name": "Racine (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30092",
+    "map_id": "40470",
+    "direction_id": "E",
+    "stop_name": "Racine (O'Hare-bound)",
+    "station_name": "Racine",
+    "station_descriptive_name": "Racine (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30297",
+    "map_id": "41680",
+    "direction_id": "N",
+    "stop_name": "Oakton-Skokie (Dempster-Skokie-bound)",
+    "station_name": "Oakton-Skokie",
+    "station_descriptive_name": "Oakton-Skokie (Yellow Line)",
+    "station_lines": [
+      "yellow"
+    ]
+  },
+  {
+    "stop_id": "30119",
+    "map_id": "40610",
+    "direction_id": "E",
+    "stop_name": "Ridgeland (63rd-bound)",
+    "station_name": "Ridgeland",
+    "station_descriptive_name": "Ridgeland (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30120",
+    "map_id": "40610",
+    "direction_id": "W",
+    "stop_name": "Ridgeland (Harlem-bound)",
+    "station_name": "Ridgeland",
+    "station_descriptive_name": "Ridgeland (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30195",
+    "map_id": "41010",
+    "direction_id": "N",
+    "stop_name": "Rockwell (Kimball-bound)",
+    "station_name": "Rockwell",
+    "station_descriptive_name": "Rockwell (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30196",
+    "map_id": "41010",
+    "direction_id": "S",
+    "stop_name": "Rockwell (Loop-bound)",
+    "station_name": "Rockwell",
+    "station_descriptive_name": "Rockwell (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30172",
+    "map_id": "40890",
+    "direction_id": "S",
+    "stop_name": "O'Hare (Forest Pk-bound)",
+    "station_name": "O'Hare",
+    "station_descriptive_name": "O'Hare (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30080",
+    "map_id": "41400",
+    "direction_id": "N",
+    "stop_name": "Roosevelt (Loop-Harlem-bound)",
+    "station_name": "Roosevelt",
+    "station_descriptive_name": "Roosevelt (Red, Orange & Green Lines)",
+    "station_lines": [
+      "green",
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30160",
+    "map_id": "40820",
+    "direction_id": "S",
+    "stop_name": "Rosemont (Forest Pk-bound)",
+    "station_name": "Rosemont",
+    "station_descriptive_name": "Rosemont (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30159",
+    "map_id": "40820",
+    "direction_id": "N",
+    "stop_name": "Rosemont (O'Hare-bound)",
+    "station_name": "Rosemont",
+    "station_descriptive_name": "Rosemont (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30155",
+    "map_id": "40800",
+    "direction_id": "N",
+    "stop_name": "Sedgwick (Kimball-Linden-bound)",
+    "station_name": "Sedgwick",
+    "station_descriptive_name": "Sedgwick (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30156",
+    "map_id": "40800",
+    "direction_id": "S",
+    "stop_name": "Sedgwick (Loop-bound)",
+    "station_name": "Sedgwick",
+    "station_descriptive_name": "Sedgwick (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30017",
+    "map_id": "40080",
+    "direction_id": "S",
+    "stop_name": "Sheridan (95th-bound)",
+    "station_name": "Sheridan",
+    "station_descriptive_name": "Sheridan (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30016",
+    "map_id": "40080",
+    "direction_id": "N",
+    "stop_name": "Sheridan (Howard-bound)",
+    "station_name": "Sheridan",
+    "station_descriptive_name": "Sheridan (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30293",
+    "map_id": "40080",
+    "direction_id": "N",
+    "stop_name": "Sheridan (Howard-Linden-bound)",
+    "station_name": "Sheridan",
+    "station_descriptive_name": "Sheridan (Red Line)",
+    "station_lines": []
+  },
+  {
+    "stop_id": "30294",
+    "map_id": "40080",
+    "direction_id": "S",
+    "stop_name": "Sheridan (Loop-bound)",
+    "station_name": "Sheridan",
+    "station_descriptive_name": "Sheridan (Red Line)",
+    "station_lines": []
+  },
+  {
+    "stop_id": "30164",
+    "map_id": "40840",
+    "direction_id": "S",
+    "stop_name": "South Blvd (Howard-Loop-bound)",
+    "station_name": "South Boulevard",
+    "station_descriptive_name": "South Boulevard (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30163",
+    "map_id": "40840",
+    "direction_id": "N",
+    "stop_name": "South Blvd (Linden-bound)",
+    "station_name": "South Boulevard",
+    "station_descriptive_name": "South Boulevard (Purple Line)",
+    "station_lines": [
+      "purple"
+    ]
+  },
+  {
+    "stop_id": "30070",
+    "map_id": "40360",
+    "direction_id": "N",
+    "stop_name": "Southport (Kimball-bound)",
+    "station_name": "Southport",
+    "station_descriptive_name": "Southport (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30071",
+    "map_id": "40360",
+    "direction_id": "S",
+    "stop_name": "Southport (Loop-bound)",
+    "station_name": "Southport",
+    "station_descriptive_name": "Southport (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30037",
+    "map_id": "40190",
+    "direction_id": "S",
+    "stop_name": "Sox-35th (95th-bound)",
+    "station_name": "Sox-35th",
+    "station_descriptive_name": "Sox-35th (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30036",
+    "map_id": "40190",
+    "direction_id": "N",
+    "stop_name": "Sox-35th (Howard-bound)",
+    "station_name": "Sox-35th",
+    "station_descriptive_name": "Sox-35th (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30050",
+    "map_id": "40260",
+    "direction_id": "E",
+    "stop_name": "State/Lake (Inner Loop)",
+    "station_name": "State/Lake",
+    "station_descriptive_name": "State/Lake (Brown, Green, Orange, Pink & Purple Lines)",
+    "station_lines": [
+      "green",
+      "pink",
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30051",
+    "map_id": "40260",
+    "direction_id": "W",
+    "stop_name": "State/Lake (Outer Loop)",
+    "station_name": "State/Lake",
+    "station_descriptive_name": "State/Lake (Brown, Green, Orange, Pink & Purple Lines)",
+    "station_lines": [
+      "green",
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30170",
+    "map_id": "40880",
+    "direction_id": "S",
+    "stop_name": "Thorndale (95th-bound)",
+    "station_name": "Thorndale",
+    "station_descriptive_name": "Thorndale (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30169",
+    "map_id": "40880",
+    "direction_id": "N",
+    "stop_name": "Thorndale (Howard-bound)",
+    "station_name": "Thorndale",
+    "station_descriptive_name": "Thorndale (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30069",
+    "map_id": "40350",
+    "direction_id": "W",
+    "stop_name": "UIC-Halsted (Forest Pk-bound)",
+    "station_name": "UIC-Halsted",
+    "station_descriptive_name": "UIC-Halsted (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30068",
+    "map_id": "40350",
+    "direction_id": "E",
+    "stop_name": "UIC-Halsted (O'Hare-bound)",
+    "station_name": "UIC-Halsted",
+    "station_descriptive_name": "UIC-Halsted (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30027",
+    "map_id": "40140",
+    "direction_id": "S",
+    "stop_name": "Dempster-Skokie (Howard-bound)",
+    "station_name": "Dempster-Skokie",
+    "station_descriptive_name": "Dempster-Skokie  (Yellow Line)",
+    "station_lines": [
+      "yellow"
+    ]
+  },
+  {
+    "stop_id": "30141",
+    "map_id": "40730",
+    "direction_id": "N",
+    "stop_name": "Washington/Wells (Inner Loop)",
+    "station_name": "Washington/Wells",
+    "station_descriptive_name": "Washington/Wells (Brown, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "pink",
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30142",
+    "map_id": "40730",
+    "direction_id": "S",
+    "stop_name": "Washington/Wells (Outer Loop)",
+    "station_name": "Washington/Wells",
+    "station_descriptive_name": "Washington/Wells (Brown, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30231",
+    "map_id": "41210",
+    "direction_id": "N",
+    "stop_name": "Wellington (Kimball-Linden-bound)",
+    "station_name": "Wellington",
+    "station_descriptive_name": "Wellington (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30232",
+    "map_id": "41210",
+    "direction_id": "S",
+    "stop_name": "Wellington (Loop-bound)",
+    "station_name": "Wellington",
+    "station_descriptive_name": "Wellington (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30060",
+    "map_id": "40310",
+    "direction_id": "N",
+    "stop_name": "Western (Loop-bound)",
+    "station_name": "Western",
+    "station_descriptive_name": "Western (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30061",
+    "map_id": "40310",
+    "direction_id": "S",
+    "stop_name": "Western (Midway-bound)",
+    "station_name": "Western",
+    "station_descriptive_name": "Western (Orange Line)",
+    "station_lines": [
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30144",
+    "map_id": "40740",
+    "direction_id": "W",
+    "stop_name": "Western (54th/Cermak-bound)",
+    "station_name": "Western",
+    "station_descriptive_name": "Western (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30143",
+    "map_id": "40740",
+    "direction_id": "E",
+    "stop_name": "Western (Loop-bound)",
+    "station_name": "Western",
+    "station_descriptive_name": "Western (Pink Line)",
+    "station_lines": [
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30269",
+    "map_id": "41400",
+    "direction_id": "N",
+    "stop_name": "Roosevelt (Howard-bound)",
+    "station_name": "Roosevelt",
+    "station_descriptive_name": "Roosevelt (Red, Orange & Green Lines)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30081",
+    "map_id": "41400",
+    "direction_id": "S",
+    "stop_name": "Roosevelt (Midway-63rd-bound)",
+    "station_name": "Roosevelt",
+    "station_descriptive_name": "Roosevelt (Red, Orange & Green Lines)",
+    "station_lines": [
+      "green",
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30073",
+    "map_id": "40370",
+    "direction_id": "S",
+    "stop_name": "Washington (Forest Pk-bound)",
+    "station_name": "Washington",
+    "station_descriptive_name": "Washington (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30072",
+    "map_id": "40370",
+    "direction_id": "N",
+    "stop_name": "Washington (O'Hare-bound)",
+    "station_name": "Washington",
+    "station_descriptive_name": "Washington (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30283",
+    "map_id": "41480",
+    "direction_id": "N",
+    "stop_name": "Western (Kimball-bound)",
+    "station_name": "Western",
+    "station_descriptive_name": "Western (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30284",
+    "map_id": "41480",
+    "direction_id": "S",
+    "stop_name": "Western (Loop-bound)",
+    "station_name": "Western",
+    "station_descriptive_name": "Western (Brown Line)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30140",
+    "map_id": "40720",
+    "direction_id": "W",
+    "stop_name": "Cottage Grove (Harlem-bound)",
+    "station_name": "Cottage Grove",
+    "station_descriptive_name": "Cottage Grove (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30121",
+    "map_id": "40630",
+    "direction_id": "N",
+    "stop_name": "Clark/Division (Howard-bound)",
+    "station_name": "Clark/Division",
+    "station_descriptive_name": "Clark/Division (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30276",
+    "map_id": "41430",
+    "direction_id": "S",
+    "stop_name": "87th (95th-bound)",
+    "station_name": "87th",
+    "station_descriptive_name": "87th (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30026",
+    "map_id": "40140",
+    "direction_id": "N",
+    "stop_name": "Dempster-Skokie (Arrival)",
+    "station_name": "Dempster-Skokie",
+    "station_descriptive_name": "Dempster-Skokie  (Yellow Line)",
+    "station_lines": [
+      "yellow"
+    ]
+  },
+  {
+    "stop_id": "30298",
+    "map_id": "41680",
+    "direction_id": "S",
+    "stop_name": "Oakton-Skokie (Howard-bound)",
+    "station_name": "Oakton-Skokie",
+    "station_descriptive_name": "Oakton-Skokie (Yellow Line)",
+    "station_lines": [
+      "yellow"
+    ]
+  },
+  {
+    "stop_id": "30210",
+    "map_id": "41080",
+    "direction_id": "S",
+    "stop_name": "47th (63rd-bound)",
+    "station_name": "47th",
+    "station_descriptive_name": "47th (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30209",
+    "map_id": "41080",
+    "direction_id": "N",
+    "stop_name": "47th (Harlem-bound)",
+    "station_name": "47th",
+    "station_descriptive_name": "47th (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30238",
+    "map_id": "41230",
+    "direction_id": "S",
+    "stop_name": "47th (95th-bound)",
+    "station_name": "47th",
+    "station_descriptive_name": "47th (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30237",
+    "map_id": "41230",
+    "direction_id": "N",
+    "stop_name": "47th (Howard-bound)",
+    "station_name": "47th",
+    "station_descriptive_name": "47th (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30175",
+    "map_id": "40900",
+    "direction_id": "N",
+    "stop_name": "Howard (Linden, Skokie-bound)",
+    "station_name": "Howard",
+    "station_descriptive_name": "Howard (Red, Purple & Yellow Lines)",
+    "station_lines": [
+      "purple",
+      "yellow"
+    ]
+  },
+  {
+    "stop_id": "30111",
+    "map_id": "40570",
+    "direction_id": "N",
+    "stop_name": "California (O'Hare-bound)",
+    "station_name": "California",
+    "station_descriptive_name": "California (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30112",
+    "map_id": "40570",
+    "direction_id": "S",
+    "stop_name": "California (Forest Pk-bound)",
+    "station_name": "California",
+    "station_descriptive_name": "California  (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30271",
+    "map_id": "41410",
+    "direction_id": "N",
+    "stop_name": "Chicago (O'Hare-bound)",
+    "station_name": "Chicago",
+    "station_descriptive_name": "Chicago (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30138",
+    "map_id": "40710",
+    "direction_id": "S",
+    "stop_name": "Chicago (Loop-bound)",
+    "station_name": "Chicago",
+    "station_descriptive_name": "Chicago (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30137",
+    "map_id": "40710",
+    "direction_id": "N",
+    "stop_name": "Chicago (Kimball-Linden-bound)",
+    "station_name": "Chicago",
+    "station_descriptive_name": "Chicago (Brown & Purple Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30280",
+    "map_id": "41450",
+    "direction_id": "S",
+    "stop_name": "Chicago (95th-bound)",
+    "station_name": "Chicago",
+    "station_descriptive_name": "Chicago (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30279",
+    "map_id": "41450",
+    "direction_id": "N",
+    "stop_name": "Chicago (Howard-bound)",
+    "station_name": "Chicago",
+    "station_descriptive_name": "Chicago (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30272",
+    "map_id": "41410",
+    "direction_id": "S",
+    "stop_name": "Chicago (Forest Pk-bound)",
+    "station_name": "Chicago",
+    "station_descriptive_name": "Chicago (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30178",
+    "map_id": "40910",
+    "direction_id": "S",
+    "stop_name": "63rd (95th-bound)",
+    "station_name": "63rd",
+    "station_descriptive_name": "63rd (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30177",
+    "map_id": "40910",
+    "direction_id": "N",
+    "stop_name": "63rd (Howard-bound)",
+    "station_name": "63rd",
+    "station_descriptive_name": "63rd (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30223",
+    "map_id": "41170",
+    "direction_id": "N",
+    "stop_name": "Garfield (Howard-bound)",
+    "station_name": "Garfield",
+    "station_descriptive_name": "Garfield (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30190",
+    "map_id": "40980",
+    "direction_id": "W",
+    "stop_name": "Harlem (Forest Pk Branch) (Terminal arrival)",
+    "station_name": "Harlem",
+    "station_descriptive_name": "Harlem (Blue Line - Forest Park Branch)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30165",
+    "map_id": "40850",
+    "direction_id": "E",
+    "stop_name": "H.W. Library (Outer Loop)",
+    "station_name": "Harold Washington Library-State/Van Buren",
+    "station_descriptive_name": "Harold Washington Library-State/Van Buren (Brown, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30130",
+    "map_id": "40670",
+    "direction_id": "S",
+    "stop_name": "Western (O'Hare Branch) (Forest Pk-bound)",
+    "station_name": "Western",
+    "station_descriptive_name": "Western (Blue Line - O'Hare Branch)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30289",
+    "map_id": "41660",
+    "direction_id": "N",
+    "stop_name": "Lake (Howard-bound)",
+    "station_name": "Lake",
+    "station_descriptive_name": "Lake (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30270",
+    "map_id": "41400",
+    "direction_id": "S",
+    "stop_name": "Roosevelt (95th-bound)",
+    "station_name": "Roosevelt",
+    "station_descriptive_name": "Roosevelt (Red, Orange & Green Lines)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30171",
+    "map_id": "40890",
+    "direction_id": "N",
+    "stop_name": "O'Hare (Terminal Arrival)",
+    "station_name": "O'Hare",
+    "station_descriptive_name": "O'Hare (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30042",
+    "map_id": "40220",
+    "direction_id": "E",
+    "stop_name": "Western (Forest Pk Branch) (O'Hare-bound)",
+    "station_name": "Western",
+    "station_descriptive_name": "Western (Blue Line - Forest Park Branch)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30043",
+    "map_id": "40220",
+    "direction_id": "W",
+    "stop_name": "Western (Forest Pk Branch) (Forest Pk-bound)",
+    "station_name": "Western",
+    "station_descriptive_name": "Western (Blue Line - Forest Park Branch)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30129",
+    "map_id": "40670",
+    "direction_id": "N",
+    "stop_name": "Western (O'Hare Branch) (O'Hare-bound)",
+    "station_name": "Western",
+    "station_descriptive_name": "Western (Blue Line - O'Hare Branch)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30381",
+    "map_id": "41690",
+    "direction_id": "N",
+    "stop_name": "Cermak-McCormick Place (Harlem-bound)",
+    "station_name": "Cermak-McCormick Place",
+    "station_descriptive_name": "Cermak-McCormick Place (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30382",
+    "map_id": "41690",
+    "direction_id": "S",
+    "stop_name": "Cermak-McCormick Place (63rd-bound)",
+    "station_name": "Cermak-McCormick Place",
+    "station_descriptive_name": "Cermak-McCormick Place (Green Line)",
+    "station_lines": [
+      "green"
+    ]
+  },
+  {
+    "stop_id": "30386",
+    "map_id": "40540",
+    "direction_id": "N",
+    "stop_name": "Wilson (Linden-bound)",
+    "station_name": "Wilson",
+    "station_descriptive_name": "Wilson (Red & Purple Lines)",
+    "station_lines": []
+  },
+  {
+    "stop_id": "30240",
+    "map_id": "41240",
+    "direction_id": "S",
+    "stop_name": "Addison (Forest Pk-bound)",
+    "station_name": "Addison",
+    "station_descriptive_name": "Addison (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30105",
+    "map_id": "40540",
+    "direction_id": "N",
+    "stop_name": "Wilson (Howard-bound)",
+    "station_name": "Wilson",
+    "station_descriptive_name": "Wilson (Red & Purple Lines)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30384",
+    "map_id": "41700",
+    "direction_id": "S",
+    "stop_name": "Washington/Wabash (Inner Loop)",
+    "station_name": "Washington/Wabash",
+    "station_descriptive_name": "Washington/Wabash (Brown, Green, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "green",
+      "pink",
+      "orange"
+    ]
+  },
+  {
+    "stop_id": "30122",
+    "map_id": "40630",
+    "direction_id": "S",
+    "stop_name": "Clark/Division (95th-bound)",
+    "station_name": "Clark/Division",
+    "station_descriptive_name": "Clark/Division (Red Line)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30239",
+    "map_id": "41240",
+    "direction_id": "N",
+    "stop_name": "Addison (O'Hare-bound)",
+    "station_name": "Addison",
+    "station_descriptive_name": "Addison (Blue Line)",
+    "station_lines": [
+      "blue"
+    ]
+  },
+  {
+    "stop_id": "30106",
+    "map_id": "40540",
+    "direction_id": "S",
+    "stop_name": "Wilson (95th-bound)",
+    "station_name": "Wilson",
+    "station_descriptive_name": "Wilson (Red & Purple Lines)",
+    "station_lines": [
+      "red"
+    ]
+  },
+  {
+    "stop_id": "30383",
+    "map_id": "41700",
+    "direction_id": "N",
+    "stop_name": "Washington/Wabash (Outer Loop)",
+    "station_name": "Washington/Wabash",
+    "station_descriptive_name": "Washington/Wabash (Brown, Green, Orange, Purple & Pink Lines)",
+    "station_lines": [
+      "green",
+      "brown"
+    ]
+  },
+  {
+    "stop_id": "30385",
+    "map_id": "40540",
+    "direction_id": "S",
+    "stop_name": "Wilson (Loop-bound)",
+    "station_name": "Wilson",
+    "station_descriptive_name": "Wilson (Red & Purple Lines)",
+    "station_lines": []
+  },
+  {
+    "stop_id": "30033",
+    "map_id": "40170",
+    "direction_id": "W",
+    "stop_name": "Ashland (Harlem-54th/Cermak-bound)",
+    "station_name": "Ashland",
+    "station_descriptive_name": "Ashland (Green & Pink Lines)",
+    "station_lines": [
+      "green",
+      "pink"
+    ]
+  },
+  {
+    "stop_id": "30032",
+    "map_id": "40170",
+    "direction_id": "E",
+    "stop_name": "Ashland (Loop-63rd-bound)",
+    "station_name": "Ashland",
+    "station_descriptive_name": "Ashland (Green & Pink Lines)",
+    "station_lines": [
+      "green",
+      "pink"
+    ]
+  }
+]
