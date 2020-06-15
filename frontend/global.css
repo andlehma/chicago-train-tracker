@@ -143,6 +143,10 @@ button:focus {
     background: orange;
 }
 
+#loading-icon {
+    font-size: 50px;
+}
+
 .eta-card {
     color: white;
     border: 2px solid black;

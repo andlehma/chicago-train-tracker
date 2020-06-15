@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import StopSelector from "./StopSelector";
 import EtaCard from "./EtaCard";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faSpinner } from '@fortawesome/free-solid-svg-icons'
 
 function App() {
     const [stop, setStop] = useState({
@@ -29,7 +31,9 @@ function App() {
         <>
             <StopSelector currentStop={stop} callback={setStop} />
             {loading ?
-                <p>loading...</p> :
+                <div id="loading-icon">
+                    <FontAwesomeIcon icon={faSpinner} spin />
+                </div> :
                 <div id="etas-container">
                     {etas.map((eta, i) =>
                         <EtaCard
