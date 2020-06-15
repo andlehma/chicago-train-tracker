@@ -13,24 +13,7 @@ body {
     font-family: Roboto, Ubuntu, sans-serif;
 }
 
-a {
-    color: rgb(0, 100, 200);
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-a:visited {
-    color: rgb(0, 80, 160);
-}
-
-label {
-    display: block;
-}
-
-input, button, select, textarea {
+input, button {
     font-family: inherit;
     font-size: inherit;
     padding: 0.4em;
@@ -40,52 +23,46 @@ input, button, select, textarea {
     border-radius: 2px;
 }
 
-input:disabled {
-    color: #ccc;
-}
-
-input[type="range"] {
-    height: 0;
-}
-
 button {
-    color: #333;
-    background-color: #f4f4f4;
     outline: none;
 }
 
-button:disabled {
-    color: #999;
-}
-
-button:not(:disabled):active {
-    background-color: #ddd;
-}
-
 button:focus {
-    border-color: #666;
+    border-color: #ccc;
 }
 
-#toggle-dropdown {
-    width: 25em;
-    display: flex;
-    justify-content: space-between;
-}
-
-#drop-down-arrow {
-    margin-left: auto;
-}
-
-#dropdown {
+header {
     position: relative;
     display: inline-block;
 }
 
+header h2{
+    display: inline;
+    margin: 0;
+}
+
+#dropdown {
+    display: inline-block;
+    margin-left: 4px;
+    width: 33em;
+}
+
+#toggle-dropdown {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #ddd;
+}
+
 #inner-dropdown {
-    position: absolute;
+    width: 33em;
+    box-sizing: border-box;
+    position: fixed;
+    margin-top: -.5em;
     background-color: white;
-    border: 1px solid #aaa;
-    width: 25em;
+    border: 2px solid #ddd;
     height: 20em;
     overflow-y: scroll;
 }
@@ -113,7 +90,6 @@ button:focus {
 
 .color-indicator span {
     width: 100%;
-    height: 100%;
 }
 
 #loading-icon {
@@ -122,11 +98,31 @@ button:focus {
 
 .eta-card {
     color: white;
-    border: 2px solid black;
     display: flex;
-    align-items: center;
+}
+
+.eta-card-number {
+    font-size: 20px;
+    width: 1em;
+}
+
+.eta-card-main {
+    flex: 1;
+    padding: .67em .33em;
+    margin: 1px 0;
+    display: flex;
     justify-content: space-between;
-    padding: 0 1em;
+    align-items: center;
+    font-weight: bold;
+}
+
+.eta-card-main h2 {
+    margin: 0;
+    font-size: 16px;
+}
+
+.eta-card h1 {
+    display: inline;
 }
 
 .mins-until-arrival {

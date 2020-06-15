@@ -15,8 +15,6 @@ function ColorIndicator(props) {
 }
 
 function StopSelector(props) {
-    const [showDropdown, setShowDropdown] = useState(false);
-
     const allStops = stops.map((stop, i) =>
         <div
             className="stop-option"
@@ -35,8 +33,8 @@ function StopSelector(props) {
         </div>
     )
 
+    const [showDropdown, setShowDropdown] = useState(false);
     const [filteredStops, setFilteredStops] = useState(allStops);
-
     const [searchText, setSearchText] = useState("");
 
     const searchStops = () => {
@@ -52,29 +50,32 @@ function StopSelector(props) {
     }
 
     return (
-        <div id="dropdown">
-            <button
-                id="toggle-dropdown"
-                onClick={() => setShowDropdown(!showDropdown)}
-            >
-                {props.currentStop.name}
-                <ColorIndicator colors={props.currentStop.lines} />
-                <span id="drop-down-arrow">
+        <header>
+            <h2>Next 'L' services at</h2>
+            <div id="dropdown">
+                <button
+                    id="toggle-dropdown"
+                    onClick={() => setShowDropdown(!showDropdown)}
+                >
+                    <h2>
+                        {props.currentStop.name}
+                        <ColorIndicator colors={props.currentStop.lines} />
+                    </h2>
                     <FontAwesomeIcon icon={faCaretDown} />
-                </span>
-            </button>
-            {showDropdown &&
-                <div id="inner-dropdown">
-                    <input
-                        type="text"
-                        placeholder="Search"
-                        value={searchText}
-                        onChange={(e) => setSearchText(e.target.value)}
-                        onKeyUp={searchStops} />
-                    {filteredStops}
-                </div>
-            }
-        </div>
+                </button>
+                {showDropdown &&
+                    <div id="inner-dropdown">
+                        <input
+                            type="text"
+                            placeholder="Search"
+                            value={searchText}
+                            onChange={(e) => setSearchText(e.target.value)}
+                            onKeyUp={searchStops} />
+                        {filteredStops}
+                    </div>
+                }
+            </div>
+        </header>
     );
 }
 

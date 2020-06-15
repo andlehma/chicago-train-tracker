@@ -24,7 +24,7 @@ function App() {
                 }
                 setLoading(false);
             });
-    }, [stop])
+    }, [stop]);
 
     return (
         <>
@@ -37,8 +37,10 @@ function App() {
                     {etas.map((eta, i) =>
                         <EtaCard
                             key={i}
+                            num={i + 1}
                             arrivalTime={eta.arrT}
                             route={eta.rt}
+                            run={eta.rn}
                             destinationName={eta.destNm}
                         />
                     )}
