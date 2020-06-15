@@ -1,7 +1,18 @@
 import React, { useState } from "react";
 import stops from "../stops.json";
+import colors from "./colors.json";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCaretDown } from '@fortawesome/free-solid-svg-icons'
+
+function ColorIndicator(props) {
+    return (
+        <div className="color-indicator">
+            {props.colors.map((color, i) =>
+                <span key={i} style={{ "backgroundColor": colors[color] }} />
+            )}
+        </div>
+    )
+}
 
 function StopSelector(props) {
     const [showDropdown, setShowDropdown] = useState(false);
@@ -12,13 +23,15 @@ function StopSelector(props) {
             key={i}
             onClick={() => {
                 setShowDropdown(false);
-                props.callback({ id: stop.stop_id, name: stop.stop_name });
+                props.callback({
+                    id: stop.stop_id,
+                    name: stop.stop_name,
+                    lines: stop.station_lines
+                });
             }}
         >
             {stop.stop_name}
-            {stop.station_lines.map((line, i) =>
-                <span key={i} className={line + " option-line-indicator"}></span>
-            )}
+            <ColorIndicator colors={stop.station_lines} />
         </div>
     )
 
@@ -45,6 +58,7 @@ function StopSelector(props) {
                 onClick={() => setShowDropdown(!showDropdown)}
             >
                 {props.currentStop.name}
+                <ColorIndicator colors={props.currentStop.lines} />
                 <span id="drop-down-arrow">
                     <FontAwesomeIcon icon={faCaretDown} />
                 </span>

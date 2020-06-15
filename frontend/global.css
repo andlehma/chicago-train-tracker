@@ -96,51 +96,24 @@ button:focus {
 
 .stop-option {
     cursor: pointer;
-    color: #333
+    color: #333;
 }
 
 .stop-option:hover {
     background-color: #ddd;
 }
 
-.option-line-indicator {
+.color-indicator {
     width: 17px;
     height: 17px;
-    display: inline-block;
+    display: inline-flex;
     vertical-align: middle;
     margin-left: 2px;
 }
 
-.option-line-indicator.red {
-    background: red;
-}
-
-.option-line-indicator.blue {
-    background: blue;
-}
-
-.option-line-indicator.green {
-    background: green;
-}
-
-.option-line-indicator.brown {
-    background: brown;
-}
-
-.option-line-indicator.purple {
-    background: purple;
-}
-
-.option-line-indicator.yellow {
-    background: yellow;
-}
-
-.option-line-indicator.pink {
-    background: pink;
-}
-
-.option-line-indicator.orange {
-    background: orange;
+.color-indicator span {
+    width: 100%;
+    height: 100%;
 }
 
 #loading-icon {

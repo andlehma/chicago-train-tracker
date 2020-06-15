@@ -7,7 +7,7 @@
     "station_name": "18th",
     "station_descriptive_name": "18th (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -18,7 +18,7 @@
     "station_name": "18th",
     "station_descriptive_name": "18th (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -29,7 +29,7 @@
     "station_name": "35th/Archer",
     "station_descriptive_name": "35th/Archer (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -40,7 +40,7 @@
     "station_name": "35th/Archer",
     "station_descriptive_name": "35th/Archer (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -51,7 +51,7 @@
     "station_name": "35th-Bronzeville-IIT",
     "station_descriptive_name": "35th-Bronzeville-IIT (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -62,7 +62,7 @@
     "station_name": "35th-Bronzeville-IIT",
     "station_descriptive_name": "35th-Bronzeville-IIT (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -73,7 +73,7 @@
     "station_name": "43rd",
     "station_descriptive_name": "43rd (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -84,7 +84,7 @@
     "station_name": "43rd",
     "station_descriptive_name": "43rd (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -95,7 +95,7 @@
     "station_name": "51st",
     "station_descriptive_name": "51st (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -106,7 +106,7 @@
     "station_name": "51st",
     "station_descriptive_name": "51st (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -117,7 +117,7 @@
     "station_name": "54th/Cermak",
     "station_descriptive_name": "54th/Cermak (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -128,7 +128,7 @@
     "station_name": "54th/Cermak",
     "station_descriptive_name": "54th/Cermak (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -139,7 +139,7 @@
     "station_name": "69th",
     "station_descriptive_name": "69th (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -150,7 +150,7 @@
     "station_name": "69th",
     "station_descriptive_name": "69th (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -161,7 +161,7 @@
     "station_name": "79th",
     "station_descriptive_name": "79th (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -172,7 +172,7 @@
     "station_name": "79th",
     "station_descriptive_name": "79th (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -183,7 +183,7 @@
     "station_name": "95th/Dan Ryan",
     "station_descriptive_name": "95th/Dan Ryan (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -194,7 +194,7 @@
     "station_name": "95th/Ran Ryan",
     "station_descriptive_name": "95th/Ran Ryan (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -205,9 +205,9 @@
     "station_name": "Adams/Wabash",
     "station_descriptive_name": "Adams/Wabash (Brown, Green, Orange, Pink & Purple Lines)",
     "station_lines": [
-      "green",
-      "pink",
-      "orange"
+      "G",
+      "Pink",
+      "Org"
     ]
   },
   {
@@ -218,8 +218,8 @@
     "station_name": "Adams/Wabash",
     "station_descriptive_name": "Adams/Wabash (Brown, Green, Orange, Pink & Purple Lines)",
     "station_lines": [
-      "green",
-      "brown"
+      "G",
+      "Brn"
     ]
   },
   {
@@ -230,7 +230,7 @@
     "station_name": "Addison",
     "station_descriptive_name": "Addison (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -241,7 +241,7 @@
     "station_name": "Addison",
     "station_descriptive_name": "Addison (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -252,7 +252,7 @@
     "station_name": "Addison",
     "station_descriptive_name": "Addison (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -263,7 +263,7 @@
     "station_name": "Addison",
     "station_descriptive_name": "Addison (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -274,7 +274,7 @@
     "station_name": "Argyle",
     "station_descriptive_name": "Argyle (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -285,7 +285,7 @@
     "station_name": "Argyle",
     "station_descriptive_name": "Argyle (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -296,7 +296,7 @@
     "station_name": "87th",
     "station_descriptive_name": "87th (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -307,7 +307,7 @@
     "station_name": "Armitage",
     "station_descriptive_name": "Armitage (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -318,7 +318,7 @@
     "station_name": "Armitage",
     "station_descriptive_name": "Armitage (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -329,7 +329,7 @@
     "station_name": "Ashland",
     "station_descriptive_name": "Ashland (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -340,7 +340,7 @@
     "station_name": "Ashland",
     "station_descriptive_name": "Ashland (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -351,7 +351,7 @@
     "station_name": "Ashland/63rd",
     "station_descriptive_name": "Ashland/63rd (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -362,7 +362,7 @@
     "station_name": "Ashland/63rd",
     "station_descriptive_name": "Ashland/63rd (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -373,7 +373,7 @@
     "station_name": "Austin",
     "station_descriptive_name": "Austin (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -384,7 +384,7 @@
     "station_name": "Austin",
     "station_descriptive_name": "Austin (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -395,7 +395,7 @@
     "station_name": "Austin",
     "station_descriptive_name": "Austin (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -406,7 +406,7 @@
     "station_name": "Austin",
     "station_descriptive_name": "Austin (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -417,7 +417,7 @@
     "station_name": "Belmont",
     "station_descriptive_name": "Belmont (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -428,7 +428,7 @@
     "station_name": "Belmont",
     "station_descriptive_name": "Belmont (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -439,7 +439,7 @@
     "station_name": "Belmont",
     "station_descriptive_name": "Belmont (Red, Brown & Purple Lines)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -450,7 +450,7 @@
     "station_name": "Belmont",
     "station_descriptive_name": "Belmont (Red, Brown & Purple Lines)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -461,7 +461,7 @@
     "station_name": "Belmont",
     "station_descriptive_name": "Belmont (Red, Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -472,7 +472,7 @@
     "station_name": "Belmont",
     "station_descriptive_name": "Belmont (Red, Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -483,7 +483,7 @@
     "station_name": "Berwyn",
     "station_descriptive_name": "Berwyn (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -494,7 +494,7 @@
     "station_name": "Berwyn",
     "station_descriptive_name": "Berwyn (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -505,7 +505,7 @@
     "station_name": "Bryn Mawr",
     "station_descriptive_name": "Bryn Mawr (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -516,7 +516,7 @@
     "station_name": "Bryn Mawr",
     "station_descriptive_name": "Bryn Mawr (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -527,7 +527,7 @@
     "station_name": "California",
     "station_descriptive_name": "California (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -538,7 +538,7 @@
     "station_name": "California",
     "station_descriptive_name": "California (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -549,7 +549,7 @@
     "station_name": "California",
     "station_descriptive_name": "California (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -560,7 +560,7 @@
     "station_name": "California",
     "station_descriptive_name": "California (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -571,7 +571,7 @@
     "station_name": "Central",
     "station_descriptive_name": "Central (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -582,7 +582,7 @@
     "station_name": "Central",
     "station_descriptive_name": "Central (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -593,7 +593,7 @@
     "station_name": "Central Park",
     "station_descriptive_name": "Central Park (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -604,7 +604,7 @@
     "station_name": "Central Park",
     "station_descriptive_name": "Central Park (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -615,7 +615,7 @@
     "station_name": "Cermak-Chinatown",
     "station_descriptive_name": "Cermak-Chinatown (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -626,7 +626,7 @@
     "station_name": "Cermak-Chinatown",
     "station_descriptive_name": "Cermak-Chinatown (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -637,7 +637,7 @@
     "station_name": "Central",
     "station_descriptive_name": "Central (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -648,7 +648,7 @@
     "station_name": "Central",
     "station_descriptive_name": "Central (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -659,7 +659,7 @@
     "station_name": "Cicero",
     "station_descriptive_name": "Cicero (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -670,7 +670,7 @@
     "station_name": "Cicero",
     "station_descriptive_name": "Cicero (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -681,7 +681,7 @@
     "station_name": "Cicero",
     "station_descriptive_name": "Cicero (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -692,7 +692,7 @@
     "station_name": "Cicero",
     "station_descriptive_name": "Cicero (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -703,7 +703,7 @@
     "station_name": "Cicero",
     "station_descriptive_name": "Cicero (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -714,7 +714,7 @@
     "station_name": "Cicero",
     "station_descriptive_name": "Cicero (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -725,9 +725,9 @@
     "station_name": "Clark/Lake",
     "station_descriptive_name": "Clark/Lake (Blue, Brown, Green, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "green",
-      "pink",
-      "orange"
+      "G",
+      "Pink",
+      "Org"
     ]
   },
   {
@@ -738,8 +738,8 @@
     "station_name": "Clark/Lake",
     "station_descriptive_name": "Clark/Lake (Blue, Brown, Green, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "green",
-      "brown"
+      "G",
+      "Brn"
     ]
   },
   {
@@ -750,7 +750,7 @@
     "station_name": "Clark/Lake",
     "station_descriptive_name": "Clark/Lake (Blue, Brown, Green, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -761,7 +761,7 @@
     "station_name": "Clark/Lake",
     "station_descriptive_name": "Clark/Lake (Blue, Brown, Green, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -772,7 +772,7 @@
     "station_name": "Clinton",
     "station_descriptive_name": "Clinton (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -783,7 +783,7 @@
     "station_name": "Clinton",
     "station_descriptive_name": "Clinton (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -794,8 +794,8 @@
     "station_name": "Clinton",
     "station_descriptive_name": "Clinton (Green & Pink Lines)",
     "station_lines": [
-      "green",
-      "pink"
+      "G",
+      "Pink"
     ]
   },
   {
@@ -806,8 +806,8 @@
     "station_name": "Clinton",
     "station_descriptive_name": "Clinton (Green & Pink Lines)",
     "station_lines": [
-      "green",
-      "pink"
+      "G",
+      "Pink"
     ]
   },
   {
@@ -818,7 +818,7 @@
     "station_name": "Conservatory",
     "station_descriptive_name": "Conservatory (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -829,7 +829,7 @@
     "station_name": "Conservatory",
     "station_descriptive_name": "Conservatory (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -840,7 +840,7 @@
     "station_name": "Cottage Grove",
     "station_descriptive_name": "Cottage Grove (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -851,7 +851,7 @@
     "station_name": "Cumberland",
     "station_descriptive_name": "Cumberland (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -862,7 +862,7 @@
     "station_name": "Cumberland",
     "station_descriptive_name": "Cumberland (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -873,7 +873,7 @@
     "station_name": "Damen",
     "station_descriptive_name": "Damen (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -884,7 +884,7 @@
     "station_name": "Damen",
     "station_descriptive_name": "Damen (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -895,7 +895,7 @@
     "station_name": "Damen",
     "station_descriptive_name": "Damen (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -906,7 +906,7 @@
     "station_name": "Damen",
     "station_descriptive_name": "Damen (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -917,7 +917,7 @@
     "station_name": "Damen",
     "station_descriptive_name": "Damen (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -928,7 +928,7 @@
     "station_name": "Damen",
     "station_descriptive_name": "Damen (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -939,7 +939,7 @@
     "station_name": "Davis",
     "station_descriptive_name": "Davis (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -950,7 +950,7 @@
     "station_name": "Davis",
     "station_descriptive_name": "Davis (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -961,7 +961,7 @@
     "station_name": "Dempster",
     "station_descriptive_name": "Dempster (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -972,7 +972,7 @@
     "station_name": "Dempster",
     "station_descriptive_name": "Dempster (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -983,7 +983,7 @@
     "station_name": "Diversey",
     "station_descriptive_name": "Diversey (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -994,7 +994,7 @@
     "station_name": "Diversey",
     "station_descriptive_name": "Diversey (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1005,7 +1005,7 @@
     "station_name": "Division",
     "station_descriptive_name": "Division (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1016,7 +1016,7 @@
     "station_name": "Forest Park",
     "station_descriptive_name": "Forest Park (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1027,7 +1027,7 @@
     "station_name": "Forest Park",
     "station_descriptive_name": "Forest Park (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1038,7 +1038,7 @@
     "station_name": "Foster",
     "station_descriptive_name": "Foster (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -1049,7 +1049,7 @@
     "station_name": "Foster",
     "station_descriptive_name": "Foster (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -1060,7 +1060,7 @@
     "station_name": "Francisco",
     "station_descriptive_name": "Francisco (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1071,7 +1071,7 @@
     "station_name": "Francisco",
     "station_descriptive_name": "Francisco (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1082,7 +1082,7 @@
     "station_name": "Fullerton",
     "station_descriptive_name": "Fullerton (Red, Brown & Purple Lines)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1093,7 +1093,7 @@
     "station_name": "Fullerton",
     "station_descriptive_name": "Fullerton (Red, Brown & Purple Lines)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1104,7 +1104,7 @@
     "station_name": "Fullerton",
     "station_descriptive_name": "Fullerton (Red, Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1115,7 +1115,7 @@
     "station_name": "Fullerton",
     "station_descriptive_name": "Fullerton (Red, Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1126,7 +1126,7 @@
     "station_name": "Garfield",
     "station_descriptive_name": "Garfield (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1137,7 +1137,7 @@
     "station_name": "Garfield",
     "station_descriptive_name": "Garfield (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1148,7 +1148,7 @@
     "station_name": "Grand",
     "station_descriptive_name": "Grand (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1159,7 +1159,7 @@
     "station_name": "Grand",
     "station_descriptive_name": "Grand (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1170,7 +1170,7 @@
     "station_name": "Grand",
     "station_descriptive_name": "Grand (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1181,7 +1181,7 @@
     "station_name": "Grand",
     "station_descriptive_name": "Grand (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1192,7 +1192,7 @@
     "station_name": "Granville",
     "station_descriptive_name": "Granville (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1203,7 +1203,7 @@
     "station_name": "Granville",
     "station_descriptive_name": "Granville (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1214,7 +1214,7 @@
     "station_name": "Halsted",
     "station_descriptive_name": "Halsted (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -1225,7 +1225,7 @@
     "station_name": "Halsted",
     "station_descriptive_name": "Halsted (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -1236,7 +1236,7 @@
     "station_name": "Halsted",
     "station_descriptive_name": "Halsted (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1247,7 +1247,7 @@
     "station_name": "Halsted",
     "station_descriptive_name": "Halsted (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1258,7 +1258,7 @@
     "station_name": "Harlem",
     "station_descriptive_name": "Harlem (Blue Line - O'Hare Branch)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1269,7 +1269,7 @@
     "station_name": "Harlem",
     "station_descriptive_name": "Harlem (Blue Line - O'Hare Branch)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1280,7 +1280,7 @@
     "station_name": "Harlem/Lake",
     "station_descriptive_name": "Harlem/Lake (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1291,7 +1291,7 @@
     "station_name": "Harlem/Lake",
     "station_descriptive_name": "Harlem/Lake (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1302,7 +1302,7 @@
     "station_name": "Harrison",
     "station_descriptive_name": "Harrison (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1313,7 +1313,7 @@
     "station_name": "Harrison",
     "station_descriptive_name": "Harrison (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1324,7 +1324,7 @@
     "station_name": "Division",
     "station_descriptive_name": "Division (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1335,7 +1335,7 @@
     "station_name": "Garfield",
     "station_descriptive_name": "Garfield (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1346,7 +1346,7 @@
     "station_name": "Harlem",
     "station_descriptive_name": "Harlem (Blue Line - Forest Park Branch)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1357,8 +1357,8 @@
     "station_name": "Harold Washington Library-State/Van Buren",
     "station_descriptive_name": "Harold Washington Library-State/Van Buren (Brown, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "pink",
-      "orange"
+      "Pink",
+      "Org"
     ]
   },
   {
@@ -1369,8 +1369,8 @@
     "station_name": "Howard",
     "station_descriptive_name": "Howard (Red, Purple & Yellow Lines)",
     "station_lines": [
-      "purple",
-      "yellow"
+      "P",
+      "Y"
     ]
   },
   {
@@ -1381,7 +1381,7 @@
     "station_name": "Howard",
     "station_descriptive_name": "Howard (Red, Purple & Yellow Lines)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1392,7 +1392,7 @@
     "station_name": "Howard",
     "station_descriptive_name": "Howard (Red, Purple & Yellow Lines)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1403,7 +1403,7 @@
     "station_name": "Illinois Medical District",
     "station_descriptive_name": "Illinois Medical District (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1414,7 +1414,7 @@
     "station_name": "Illinois Medical District",
     "station_descriptive_name": "Illinois Medical District (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1425,7 +1425,7 @@
     "station_name": "Indiana",
     "station_descriptive_name": "Indiana (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1436,7 +1436,7 @@
     "station_name": "Indiana",
     "station_descriptive_name": "Indiana (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1447,7 +1447,7 @@
     "station_name": "Irving Park",
     "station_descriptive_name": "Irving Park (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1458,7 +1458,7 @@
     "station_name": "Irving Park",
     "station_descriptive_name": "Irving Park (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1469,7 +1469,7 @@
     "station_name": "Irving Park",
     "station_descriptive_name": "Irving Park (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1480,7 +1480,7 @@
     "station_name": "Irving Park",
     "station_descriptive_name": "Irving Park (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1491,7 +1491,7 @@
     "station_name": "Jackson",
     "station_descriptive_name": "Jackson (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1502,7 +1502,7 @@
     "station_name": "Jackson",
     "station_descriptive_name": "Jackson (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1513,7 +1513,7 @@
     "station_name": "Jackson",
     "station_descriptive_name": "Jackson (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1524,7 +1524,7 @@
     "station_name": "Jackson",
     "station_descriptive_name": "Jackson (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1535,7 +1535,7 @@
     "station_name": "Jarvis",
     "station_descriptive_name": "Jarvis (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1546,7 +1546,7 @@
     "station_name": "Jarvis",
     "station_descriptive_name": "Jarvis (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1557,7 +1557,7 @@
     "station_name": "Jefferson Park",
     "station_descriptive_name": "Jefferson Park (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1568,7 +1568,7 @@
     "station_name": "Jefferson Park",
     "station_descriptive_name": "Jefferson Park (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1579,7 +1579,7 @@
     "station_name": "Kedzie",
     "station_descriptive_name": "Kedzie (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -1590,7 +1590,7 @@
     "station_name": "Kedzie",
     "station_descriptive_name": "Kedzie (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -1601,7 +1601,7 @@
     "station_name": "Kedzie",
     "station_descriptive_name": "Kedzie (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -1612,7 +1612,7 @@
     "station_name": "Kedzie",
     "station_descriptive_name": "Kedzie (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -1623,7 +1623,7 @@
     "station_name": "Kedzie",
     "station_descriptive_name": "Kedzie (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1634,7 +1634,7 @@
     "station_name": "Kedzie",
     "station_descriptive_name": "Kedzie (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1645,7 +1645,7 @@
     "station_name": "Kedzie",
     "station_descriptive_name": "Kedzie (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1656,7 +1656,7 @@
     "station_name": "Kedzie",
     "station_descriptive_name": "Kedzie (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1667,7 +1667,7 @@
     "station_name": "Kedzie-Homan",
     "station_descriptive_name": "Kedzie-Homan (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1678,7 +1678,7 @@
     "station_name": "Kedzie-Homan",
     "station_descriptive_name": "Kedzie-Homan (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1689,7 +1689,7 @@
     "station_name": "Kimball",
     "station_descriptive_name": "Kimball (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1700,7 +1700,7 @@
     "station_name": "Kimball",
     "station_descriptive_name": "Kimball (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1711,7 +1711,7 @@
     "station_name": "King Drive",
     "station_descriptive_name": "King Drive (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1722,7 +1722,7 @@
     "station_name": "King Drive",
     "station_descriptive_name": "King Drive (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1733,7 +1733,7 @@
     "station_name": "Kostner",
     "station_descriptive_name": "Kostner (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -1744,7 +1744,7 @@
     "station_name": "Kostner",
     "station_descriptive_name": "Kostner (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -1755,7 +1755,7 @@
     "station_name": "Laramie",
     "station_descriptive_name": "Laramie (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1766,7 +1766,7 @@
     "station_name": "Laramie",
     "station_descriptive_name": "Laramie (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -1777,7 +1777,7 @@
     "station_name": "LaSalle",
     "station_descriptive_name": "LaSalle (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1788,7 +1788,7 @@
     "station_name": "LaSalle",
     "station_descriptive_name": "LaSalle (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1799,8 +1799,8 @@
     "station_name": "LaSalle/Van Buren",
     "station_descriptive_name": "LaSalle/Van Buren (Brown, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "pink",
-      "orange"
+      "Pink",
+      "Org"
     ]
   },
   {
@@ -1811,7 +1811,7 @@
     "station_name": "LaSalle/Van Buren",
     "station_descriptive_name": "LaSalle/Van Buren (Brown, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1822,7 +1822,7 @@
     "station_name": "Lawrence",
     "station_descriptive_name": "Lawrence (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1833,7 +1833,7 @@
     "station_name": "Lawrence",
     "station_descriptive_name": "Lawrence (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1844,7 +1844,7 @@
     "station_name": "Linden",
     "station_descriptive_name": "Linden (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -1855,7 +1855,7 @@
     "station_name": "Linden",
     "station_descriptive_name": "Linden (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -1866,7 +1866,7 @@
     "station_name": "Logan Square",
     "station_descriptive_name": "Logan Square (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1877,7 +1877,7 @@
     "station_name": "Logan Square",
     "station_descriptive_name": "Logan Square (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1888,7 +1888,7 @@
     "station_name": "Loyola",
     "station_descriptive_name": "Loyola (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1899,7 +1899,7 @@
     "station_name": "Loyola",
     "station_descriptive_name": "Loyola (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -1910,7 +1910,7 @@
     "station_name": "Main",
     "station_descriptive_name": "Main (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -1921,7 +1921,7 @@
     "station_name": "Main",
     "station_descriptive_name": "Main (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -1932,7 +1932,7 @@
     "station_name": "Merchandise Mart",
     "station_descriptive_name": "Merchandise Mart (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1943,7 +1943,7 @@
     "station_name": "Merchandise Mart",
     "station_descriptive_name": "Merchandise Mart (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -1954,7 +1954,7 @@
     "station_name": "Midway",
     "station_descriptive_name": "Midway (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -1965,7 +1965,7 @@
     "station_name": "Midway",
     "station_descriptive_name": "Midway (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -1976,7 +1976,7 @@
     "station_name": "Montrose",
     "station_descriptive_name": "Montrose (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1987,7 +1987,7 @@
     "station_name": "Montrose",
     "station_descriptive_name": "Montrose (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -1998,7 +1998,7 @@
     "station_name": "Montrose",
     "station_descriptive_name": "Montrose (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2009,7 +2009,7 @@
     "station_name": "Montrose",
     "station_descriptive_name": "Montrose (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2020,8 +2020,8 @@
     "station_name": "Morgan",
     "station_descriptive_name": "Morgan (Green & Pink Lines)",
     "station_lines": [
-      "green",
-      "pink"
+      "G",
+      "Pink"
     ]
   },
   {
@@ -2032,8 +2032,8 @@
     "station_name": "Morgan",
     "station_descriptive_name": "Morgan (Green & Pink Lines)",
     "station_lines": [
-      "green",
-      "pink"
+      "G",
+      "Pink"
     ]
   },
   {
@@ -2044,7 +2044,7 @@
     "station_name": "Morse",
     "station_descriptive_name": "Morse (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2055,7 +2055,7 @@
     "station_name": "Lake",
     "station_descriptive_name": "Lake (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2066,7 +2066,7 @@
     "station_name": "Monroe",
     "station_descriptive_name": "Monroe (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2077,7 +2077,7 @@
     "station_name": "Monroe",
     "station_descriptive_name": "Monroe (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2088,7 +2088,7 @@
     "station_name": "Monroe",
     "station_descriptive_name": "Monroe (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2099,7 +2099,7 @@
     "station_name": "Monroe",
     "station_descriptive_name": "Monroe (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2110,7 +2110,7 @@
     "station_name": "Morse",
     "station_descriptive_name": "Morse (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2121,7 +2121,7 @@
     "station_name": "North/Clybourn",
     "station_descriptive_name": "North/Clybourn (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2132,7 +2132,7 @@
     "station_name": "North/Clybourn",
     "station_descriptive_name": "North/Clybourn (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2143,7 +2143,7 @@
     "station_name": "Noyes",
     "station_descriptive_name": "Noyes (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -2154,7 +2154,7 @@
     "station_name": "Noyes",
     "station_descriptive_name": "Noyes (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -2165,7 +2165,7 @@
     "station_name": "Oak Park",
     "station_descriptive_name": "Oak Park (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2176,7 +2176,7 @@
     "station_name": "Oak Park",
     "station_descriptive_name": "Oak Park (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2187,7 +2187,7 @@
     "station_name": "Oak Park",
     "station_descriptive_name": "Oak Park (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -2198,7 +2198,7 @@
     "station_name": "Oak Park",
     "station_descriptive_name": "Oak Park (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -2209,7 +2209,7 @@
     "station_name": "Paulina",
     "station_descriptive_name": "Paulina (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2220,7 +2220,7 @@
     "station_name": "Paulina",
     "station_descriptive_name": "Paulina (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2231,7 +2231,7 @@
     "station_name": "Polk",
     "station_descriptive_name": "Polk (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -2242,7 +2242,7 @@
     "station_name": "Polk",
     "station_descriptive_name": "Polk (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -2253,7 +2253,7 @@
     "station_name": "Pulaski",
     "station_descriptive_name": "Pulaski (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -2264,7 +2264,7 @@
     "station_name": "Pulaski",
     "station_descriptive_name": "Pulaski (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -2275,7 +2275,7 @@
     "station_name": "Pulaski",
     "station_descriptive_name": "Pulaski (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -2286,7 +2286,7 @@
     "station_name": "Pulaski",
     "station_descriptive_name": "Pulaski (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -2297,7 +2297,7 @@
     "station_name": "Pulaski",
     "station_descriptive_name": "Pulaski (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2308,7 +2308,7 @@
     "station_name": "Pulaski",
     "station_descriptive_name": "Pulaski (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2319,7 +2319,7 @@
     "station_name": "Pulaski",
     "station_descriptive_name": "Pulaski (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -2330,7 +2330,7 @@
     "station_name": "Pulaski",
     "station_descriptive_name": "Pulaski (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -2341,8 +2341,8 @@
     "station_name": "Quincy/Wells",
     "station_descriptive_name": "Quincy/Wells (Brown, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "pink",
-      "orange"
+      "Pink",
+      "Org"
     ]
   },
   {
@@ -2353,7 +2353,7 @@
     "station_name": "Quincy/Wells",
     "station_descriptive_name": "Quincy/Wells (Brown, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2364,7 +2364,7 @@
     "station_name": "Racine",
     "station_descriptive_name": "Racine (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2375,7 +2375,7 @@
     "station_name": "Racine",
     "station_descriptive_name": "Racine (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2386,7 +2386,7 @@
     "station_name": "Oakton-Skokie",
     "station_descriptive_name": "Oakton-Skokie (Yellow Line)",
     "station_lines": [
-      "yellow"
+      "Y"
     ]
   },
   {
@@ -2397,7 +2397,7 @@
     "station_name": "Ridgeland",
     "station_descriptive_name": "Ridgeland (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -2408,7 +2408,7 @@
     "station_name": "Ridgeland",
     "station_descriptive_name": "Ridgeland (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -2419,7 +2419,7 @@
     "station_name": "Rockwell",
     "station_descriptive_name": "Rockwell (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2430,7 +2430,7 @@
     "station_name": "Rockwell",
     "station_descriptive_name": "Rockwell (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2441,7 +2441,7 @@
     "station_name": "O'Hare",
     "station_descriptive_name": "O'Hare (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2452,8 +2452,8 @@
     "station_name": "Roosevelt",
     "station_descriptive_name": "Roosevelt (Red, Orange & Green Lines)",
     "station_lines": [
-      "green",
-      "orange"
+      "G",
+      "Org"
     ]
   },
   {
@@ -2464,7 +2464,7 @@
     "station_name": "Rosemont",
     "station_descriptive_name": "Rosemont (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2475,7 +2475,7 @@
     "station_name": "Rosemont",
     "station_descriptive_name": "Rosemont (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2486,7 +2486,7 @@
     "station_name": "Sedgwick",
     "station_descriptive_name": "Sedgwick (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2497,7 +2497,7 @@
     "station_name": "Sedgwick",
     "station_descriptive_name": "Sedgwick (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2508,7 +2508,7 @@
     "station_name": "Sheridan",
     "station_descriptive_name": "Sheridan (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2519,7 +2519,7 @@
     "station_name": "Sheridan",
     "station_descriptive_name": "Sheridan (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2548,7 +2548,7 @@
     "station_name": "South Boulevard",
     "station_descriptive_name": "South Boulevard (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -2559,7 +2559,7 @@
     "station_name": "South Boulevard",
     "station_descriptive_name": "South Boulevard (Purple Line)",
     "station_lines": [
-      "purple"
+      "P"
     ]
   },
   {
@@ -2570,7 +2570,7 @@
     "station_name": "Southport",
     "station_descriptive_name": "Southport (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2581,7 +2581,7 @@
     "station_name": "Southport",
     "station_descriptive_name": "Southport (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2592,7 +2592,7 @@
     "station_name": "Sox-35th",
     "station_descriptive_name": "Sox-35th (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2603,7 +2603,7 @@
     "station_name": "Sox-35th",
     "station_descriptive_name": "Sox-35th (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2614,9 +2614,9 @@
     "station_name": "State/Lake",
     "station_descriptive_name": "State/Lake (Brown, Green, Orange, Pink & Purple Lines)",
     "station_lines": [
-      "green",
-      "pink",
-      "orange"
+      "G",
+      "Pink",
+      "Org"
     ]
   },
   {
@@ -2627,8 +2627,8 @@
     "station_name": "State/Lake",
     "station_descriptive_name": "State/Lake (Brown, Green, Orange, Pink & Purple Lines)",
     "station_lines": [
-      "green",
-      "brown"
+      "G",
+      "Brn"
     ]
   },
   {
@@ -2639,7 +2639,7 @@
     "station_name": "Thorndale",
     "station_descriptive_name": "Thorndale (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2650,7 +2650,7 @@
     "station_name": "Thorndale",
     "station_descriptive_name": "Thorndale (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2661,7 +2661,7 @@
     "station_name": "UIC-Halsted",
     "station_descriptive_name": "UIC-Halsted (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2672,7 +2672,7 @@
     "station_name": "UIC-Halsted",
     "station_descriptive_name": "UIC-Halsted (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2683,7 +2683,7 @@
     "station_name": "Dempster-Skokie",
     "station_descriptive_name": "Dempster-Skokie  (Yellow Line)",
     "station_lines": [
-      "yellow"
+      "Y"
     ]
   },
   {
@@ -2694,8 +2694,8 @@
     "station_name": "Washington/Wells",
     "station_descriptive_name": "Washington/Wells (Brown, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "pink",
-      "orange"
+      "Pink",
+      "Org"
     ]
   },
   {
@@ -2706,7 +2706,7 @@
     "station_name": "Washington/Wells",
     "station_descriptive_name": "Washington/Wells (Brown, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2717,7 +2717,7 @@
     "station_name": "Wellington",
     "station_descriptive_name": "Wellington (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2728,7 +2728,7 @@
     "station_name": "Wellington",
     "station_descriptive_name": "Wellington (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2739,7 +2739,7 @@
     "station_name": "Western",
     "station_descriptive_name": "Western (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -2750,7 +2750,7 @@
     "station_name": "Western",
     "station_descriptive_name": "Western (Orange Line)",
     "station_lines": [
-      "orange"
+      "Org"
     ]
   },
   {
@@ -2761,7 +2761,7 @@
     "station_name": "Western",
     "station_descriptive_name": "Western (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -2772,7 +2772,7 @@
     "station_name": "Western",
     "station_descriptive_name": "Western (Pink Line)",
     "station_lines": [
-      "pink"
+      "Pink"
     ]
   },
   {
@@ -2783,7 +2783,7 @@
     "station_name": "Roosevelt",
     "station_descriptive_name": "Roosevelt (Red, Orange & Green Lines)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2794,8 +2794,8 @@
     "station_name": "Roosevelt",
     "station_descriptive_name": "Roosevelt (Red, Orange & Green Lines)",
     "station_lines": [
-      "green",
-      "orange"
+      "G",
+      "Org"
     ]
   },
   {
@@ -2806,7 +2806,7 @@
     "station_name": "Washington",
     "station_descriptive_name": "Washington (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2817,7 +2817,7 @@
     "station_name": "Washington",
     "station_descriptive_name": "Washington (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2828,7 +2828,7 @@
     "station_name": "Western",
     "station_descriptive_name": "Western (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2839,7 +2839,7 @@
     "station_name": "Western",
     "station_descriptive_name": "Western (Brown Line)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -2850,7 +2850,7 @@
     "station_name": "Cottage Grove",
     "station_descriptive_name": "Cottage Grove (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -2861,7 +2861,7 @@
     "station_name": "Clark/Division",
     "station_descriptive_name": "Clark/Division (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2872,7 +2872,7 @@
     "station_name": "87th",
     "station_descriptive_name": "87th (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2883,7 +2883,7 @@
     "station_name": "Dempster-Skokie",
     "station_descriptive_name": "Dempster-Skokie  (Yellow Line)",
     "station_lines": [
-      "yellow"
+      "Y"
     ]
   },
   {
@@ -2894,7 +2894,7 @@
     "station_name": "Oakton-Skokie",
     "station_descriptive_name": "Oakton-Skokie (Yellow Line)",
     "station_lines": [
-      "yellow"
+      "Y"
     ]
   },
   {
@@ -2905,7 +2905,7 @@
     "station_name": "47th",
     "station_descriptive_name": "47th (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -2916,7 +2916,7 @@
     "station_name": "47th",
     "station_descriptive_name": "47th (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -2927,7 +2927,7 @@
     "station_name": "47th",
     "station_descriptive_name": "47th (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2938,7 +2938,7 @@
     "station_name": "47th",
     "station_descriptive_name": "47th (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -2949,8 +2949,8 @@
     "station_name": "Howard",
     "station_descriptive_name": "Howard (Red, Purple & Yellow Lines)",
     "station_lines": [
-      "purple",
-      "yellow"
+      "P",
+      "Y"
     ]
   },
   {
@@ -2961,7 +2961,7 @@
     "station_name": "California",
     "station_descriptive_name": "California (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2972,7 +2972,7 @@
     "station_name": "California",
     "station_descriptive_name": "California  (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2983,7 +2983,7 @@
     "station_name": "Chicago",
     "station_descriptive_name": "Chicago (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -2994,7 +2994,7 @@
     "station_name": "Chicago",
     "station_descriptive_name": "Chicago (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -3005,7 +3005,7 @@
     "station_name": "Chicago",
     "station_descriptive_name": "Chicago (Brown & Purple Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -3016,7 +3016,7 @@
     "station_name": "Chicago",
     "station_descriptive_name": "Chicago (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -3027,7 +3027,7 @@
     "station_name": "Chicago",
     "station_descriptive_name": "Chicago (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -3038,7 +3038,7 @@
     "station_name": "Chicago",
     "station_descriptive_name": "Chicago (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -3049,7 +3049,7 @@
     "station_name": "63rd",
     "station_descriptive_name": "63rd (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -3060,7 +3060,7 @@
     "station_name": "63rd",
     "station_descriptive_name": "63rd (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -3071,7 +3071,7 @@
     "station_name": "Garfield",
     "station_descriptive_name": "Garfield (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -3082,7 +3082,7 @@
     "station_name": "Harlem",
     "station_descriptive_name": "Harlem (Blue Line - Forest Park Branch)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -3093,7 +3093,7 @@
     "station_name": "Harold Washington Library-State/Van Buren",
     "station_descriptive_name": "Harold Washington Library-State/Van Buren (Brown, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "brown"
+      "Brn"
     ]
   },
   {
@@ -3104,7 +3104,7 @@
     "station_name": "Western",
     "station_descriptive_name": "Western (Blue Line - O'Hare Branch)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -3115,7 +3115,7 @@
     "station_name": "Lake",
     "station_descriptive_name": "Lake (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -3126,7 +3126,7 @@
     "station_name": "Roosevelt",
     "station_descriptive_name": "Roosevelt (Red, Orange & Green Lines)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -3137,7 +3137,7 @@
     "station_name": "O'Hare",
     "station_descriptive_name": "O'Hare (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -3148,7 +3148,7 @@
     "station_name": "Western",
     "station_descriptive_name": "Western (Blue Line - Forest Park Branch)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -3159,7 +3159,7 @@
     "station_name": "Western",
     "station_descriptive_name": "Western (Blue Line - Forest Park Branch)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -3170,7 +3170,7 @@
     "station_name": "Western",
     "station_descriptive_name": "Western (Blue Line - O'Hare Branch)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -3181,7 +3181,7 @@
     "station_name": "Cermak-McCormick Place",
     "station_descriptive_name": "Cermak-McCormick Place (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -3192,7 +3192,7 @@
     "station_name": "Cermak-McCormick Place",
     "station_descriptive_name": "Cermak-McCormick Place (Green Line)",
     "station_lines": [
-      "green"
+      "G"
     ]
   },
   {
@@ -3202,7 +3202,9 @@
     "stop_name": "Wilson (Linden-bound)",
     "station_name": "Wilson",
     "station_descriptive_name": "Wilson (Red & Purple Lines)",
-    "station_lines": []
+    "station_lines": [
+      "P"
+    ]
   },
   {
     "stop_id": "30240",
@@ -3212,7 +3214,7 @@
     "station_name": "Addison",
     "station_descriptive_name": "Addison (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -3223,7 +3225,7 @@
     "station_name": "Wilson",
     "station_descriptive_name": "Wilson (Red & Purple Lines)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -3234,9 +3236,9 @@
     "station_name": "Washington/Wabash",
     "station_descriptive_name": "Washington/Wabash (Brown, Green, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "green",
-      "pink",
-      "orange"
+      "G",
+      "Pink",
+      "Org"
     ]
   },
   {
@@ -3247,7 +3249,7 @@
     "station_name": "Clark/Division",
     "station_descriptive_name": "Clark/Division (Red Line)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -3258,7 +3260,7 @@
     "station_name": "Addison",
     "station_descriptive_name": "Addison (Blue Line)",
     "station_lines": [
-      "blue"
+      "Blue"
     ]
   },
   {
@@ -3269,7 +3271,7 @@
     "station_name": "Wilson",
     "station_descriptive_name": "Wilson (Red & Purple Lines)",
     "station_lines": [
-      "red"
+      "Red"
     ]
   },
   {
@@ -3280,8 +3282,8 @@
     "station_name": "Washington/Wabash",
     "station_descriptive_name": "Washington/Wabash (Brown, Green, Orange, Purple & Pink Lines)",
     "station_lines": [
-      "green",
-      "brown"
+      "G",
+      "Brn"
     ]
   },
   {
@@ -3291,7 +3293,9 @@
     "stop_name": "Wilson (Loop-bound)",
     "station_name": "Wilson",
     "station_descriptive_name": "Wilson (Red & Purple Lines)",
-    "station_lines": []
+    "station_lines": [
+      "P"
+    ]
   },
   {
     "stop_id": "30033",
@@ -3301,8 +3305,8 @@
     "station_name": "Ashland",
     "station_descriptive_name": "Ashland (Green & Pink Lines)",
     "station_lines": [
-      "green",
-      "pink"
+      "G",
+      "Pink"
     ]
   },
   {
@@ -3313,8 +3317,8 @@
     "station_name": "Ashland",
     "station_descriptive_name": "Ashland (Green & Pink Lines)",
     "station_lines": [
-      "green",
-      "pink"
+      "G",
+      "Pink"
     ]
   }
 ]

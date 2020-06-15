@@ -6,10 +6,9 @@ import { faSpinner } from '@fortawesome/free-solid-svg-icons'
 
 function App() {
     const [stop, setStop] = useState({
-        id: 30050, name: "State/Lake (Inner Loop)"
+        id: 30050, name: "State/Lake (Inner Loop)", lines: ["G", "Pink", "Org"]
     });
     const [etas, setEtas] = useState([]);
-
     const [loading, setLoading] = useState(false);
 
     useEffect(() => {
