@@ -1,8 +1,30 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import StopSelector from "./StopSelector";
 import EtaCard from "./EtaCard";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSpinner } from '@fortawesome/free-solid-svg-icons'
+
+// https://overreacted.io/making-setinterval-declarative-with-react-hooks/
+// thanks Dan
+function useInterval(callback, delay) {
+    const savedCallback = useRef();
+
+    // Remember the latest callback.
+    useEffect(() => {
+        savedCallback.current = callback;
+    }, [callback]);
+
+    // Set up the interval.
+    useEffect(() => {
+        function tick() {
+            savedCallback.current();
+        }
+        if (delay !== null) {
+            let id = setInterval(tick, delay);
+            return () => clearInterval(id);
+        }
+    }, [delay]);
+}
 
 function App() {
     const [stop, setStop] = useState({
@@ -11,8 +33,9 @@ function App() {
     const [etas, setEtas] = useState([]);
     const [loading, setLoading] = useState(false);
     const [reload, setReload] = useState(false);
+    const [time, setTime] = useState();
 
-    // query api
+    // query CTA API
     useEffect(() => {
         setLoading(true);
         let endpoint = `/api/${stop.id}`;
@@ -34,6 +57,21 @@ function App() {
         return () => clearInterval(interval);
     })
 
+    // get Chicago time from the world time API
+    const setTimeFromApi = () => {
+        fetch("http://worldtimeapi.org/api/timezone/America/Chicago")
+            .then(res => res.json())
+            .then(data => {
+                let chicagoTime = (new Date(data.datetime.substring(0, 26)));
+                setTime(chicagoTime);
+            });
+    }
+
+    // set time once to start
+    useEffect(setTimeFromApi, []);
+    // then set time every 5 seconds
+    useInterval(setTimeFromApi, 5000);
+
     return (
         <>
             <StopSelector currentStop={stop} callback={setStop} />
@@ -50,6 +88,7 @@ function App() {
                             route={eta.rt}
                             run={eta.rn}
                             destinationName={eta.destNm}
+                            time={time}
                         />
                     )}
                 </div>

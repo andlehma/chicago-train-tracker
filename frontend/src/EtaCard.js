@@ -1,33 +1,7 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import colors from "./colors.json";
-let interval;
 
 function EtaCard(props) {
-    const [minsUntilArrival, setMinsUntilArrival] = useState();
-    const [time, setTime] = useState(Date.now());
-
-    useEffect(() => {
-        // set time every 5 seconds
-        fetch("http://worldtimeapi.org/api/timezone/America/Chicago")
-            .then(res => res.json())
-            .then(data => {
-                interval = setInterval(() => {
-                    setTime(data.unixtime * 1000)
-                }, 5000);
-            });
-
-        // calculate and set minutes until arrival
-        const msUntilArrival = Date.parse(props.arrivalTime) - time;
-        const msToMins = 1 / 60000;
-        setMinsUntilArrival(Math.ceil(msUntilArrival * msToMins));
-
-        // clean up interval
-        return () => {
-            clearInterval(interval);
-        }
-    }, [time]);
-
-
     let bgColor = colors[props.route];
     let trainName = "";
     switch (props.route) {
@@ -58,6 +32,11 @@ function EtaCard(props) {
     }
     trainName += props.run;
     trainName += " to";
+
+    // calculate and set minutes until arrival
+    const msUntilArrival = Date.parse(props.arrivalTime) - props.time;
+    const msToMins = 1 / 60000;
+    const minsUntilArrival = Math.ceil(msUntilArrival * msToMins);
 
     if (minsUntilArrival > -1) {
         return (
