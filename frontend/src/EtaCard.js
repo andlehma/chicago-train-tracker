@@ -7,8 +7,14 @@ function EtaCard(props) {
     const [time, setTime] = useState(Date.now());
 
     useEffect(() => {
-        // set time
-        interval = setInterval(() => setTime(Date.now()), 1000);
+        // set time every 5 seconds
+        fetch("http://worldtimeapi.org/api/timezone/America/Chicago")
+            .then(res => res.json())
+            .then(data => {
+                interval = setInterval(() => {
+                    setTime(data.unixtime * 1000)
+                }, 5000);
+            });
 
         // calculate and set minutes until arrival
         const msUntilArrival = Date.parse(props.arrivalTime) - time;
