@@ -70,7 +70,9 @@ function StopSelector(props) {
                             placeholder="Search"
                             value={searchText}
                             onChange={(e) => setSearchText(e.target.value)}
-                            onKeyUp={searchStops} />
+                            onKeyUp={searchStops}
+                            autoFocus
+                        />
                         {filteredStops}
                     </div>
                 }
