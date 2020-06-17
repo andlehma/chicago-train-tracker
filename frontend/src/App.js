@@ -10,7 +10,9 @@ function App() {
     });
     const [etas, setEtas] = useState([]);
     const [loading, setLoading] = useState(false);
+    const [reload, setReload] = useState(false);
 
+    // query api
     useEffect(() => {
         setLoading(true);
         let endpoint = `/api/${stop.id}`;
@@ -24,7 +26,13 @@ function App() {
                 }
                 setLoading(false);
             });
-    }, [stop]);
+    }, [stop, reload]);
+
+    // set up interval to re-query every 5 minutes
+    useEffect(() => {
+        let interval = setInterval(() => setReload(!reload), (1000 * 60 * 5));
+        return () => clearInterval(interval);
+    })
 
     return (
         <>

@@ -13,7 +13,7 @@ function EtaCard(props) {
         // calculate and set minutes until arrival
         const msUntilArrival = Date.parse(props.arrivalTime) - time;
         const msToMins = 1 / 60000;
-        setMinsUntilArrival(Math.floor(msUntilArrival * msToMins));
+        setMinsUntilArrival(Math.ceil(msUntilArrival * msToMins));
 
         // clean up interval
         return () => {
@@ -53,20 +53,29 @@ function EtaCard(props) {
     trainName += props.run;
     trainName += " to";
 
-    return (
-        <div className="eta-card">
-            <span className="eta-card-number">
-                {props.num}
-            </span>
-            <span className="eta-card-main" style={{ "backgroundColor": bgColor }}>
-                <span>
-                    <h2>{trainName}</h2>
-                    <h1>{props.destinationName}</h1>
+    if (minsUntilArrival > -1) {
+        return (
+            <div className="eta-card">
+                <span className="eta-card-number">
+                    {props.num}
                 </span>
-                <span className="mins-until-arrival">{minsUntilArrival} min</span>
-            </span>
-        </div >
-    )
+                <span className="eta-card-main" style={{ "backgroundColor": bgColor }}>
+                    <span>
+                        <h2>{trainName}</h2>
+                        <h1>{props.destinationName}</h1>
+                    </span>
+                    <span className="mins-until-arrival">
+                        {minsUntilArrival > 1 ?
+                            minsUntilArrival + " min" :
+                            "Due"
+                        }
+                    </span>
+                </span>
+            </div >
+        );
+    } else {
+        return null;
+    }
 
 }
 
