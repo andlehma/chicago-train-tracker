@@ -28,16 +28,35 @@ function useInterval(callback, delay) {
 
 function App() {
     const [stop, setStop] = useState({
-        id: 30050, name: "State/Lake (Inner Loop)", lines: ["G", "Pink", "Org"]
+        id: 30050,
+        name: "State/Lake (Inner Loop)",
+        lines: ["G", "Pink", "Org"]
     });
     const [etas, setEtas] = useState([]);
-    const [loading, setLoading] = useState(false);
-    const [reload, setReload] = useState(false);
+    const [loadingEtas, setLoadingEtas] = useState(false);
+    const [loadingTime, setLoadingTime] = useState(false);
     const [time, setTime] = useState();
 
-    // query CTA API
-    useEffect(() => {
-        setLoading(true);
+    // get Chicago time from the world time API
+    const setTimeFromApi = () => {
+        if (!time) setLoadingTime(true);
+        fetch("http://worldtimeapi.org/api/timezone/America/Chicago")
+            .then(res => res.json())
+            .then(data => {
+                let chicagoTime = (new Date(data.datetime.substring(0, 26)));
+                setTime(chicagoTime);
+                setLoadingTime(false);
+            });
+    }
+
+    // set time once to start
+    useEffect(setTimeFromApi, []);
+    // then set time every 5 seconds
+    useInterval(setTimeFromApi, 5000);
+
+    // get etas from CTA API
+    const setEtasFromApi = () => {
+        if (etas.length === 0) setLoadingEtas(true);
         let endpoint = `/api/${stop.id}`;
         fetch(endpoint)
             .then(res => res.json())
@@ -47,50 +66,45 @@ function App() {
                 } else {
                     setEtas([]);
                 }
-                setLoading(false);
-            });
-    }, [stop, reload]);
-
-    // set up interval to re-query every 5 minutes
-    useEffect(() => {
-        let interval = setInterval(() => setReload(!reload), (1000 * 60 * 5));
-        return () => clearInterval(interval);
-    })
-
-    // get Chicago time from the world time API
-    const setTimeFromApi = () => {
-        fetch("http://worldtimeapi.org/api/timezone/America/Chicago")
-            .then(res => res.json())
-            .then(data => {
-                let chicagoTime = (new Date(data.datetime.substring(0, 26)));
-                setTime(chicagoTime);
+                setLoadingEtas(false);
             });
     }
 
-    // set time once to start
-    useEffect(setTimeFromApi, []);
-    // then set time every 5 seconds
-    useInterval(setTimeFromApi, 5000);
+    // get etas whenever stop is set
+    useEffect(setEtasFromApi, [stop]);
+    // and re-qeury every 5 minutes
+    useInterval(setEtasFromApi, (1000 * 60 * 5));
+
+    // calculate each train's minsUntilArrival
+    // also remove etas whose arrival time is > 10 seconds ago
+    let newEtas = [];
+    etas.forEach(eta => {
+        const msUntilArrival = Date.parse(eta.arrT) - time;
+        const msToMins = 1 / 60000;
+        const minsUntilArrival = Math.ceil(msUntilArrival * msToMins);
+        if (msUntilArrival > -10000) {
+            newEtas.push({ ...eta, minsUntilArrival: minsUntilArrival });
+        }
+    });
 
     return (
         <>
             <StopSelector currentStop={stop} callback={setStop} />
-            {loading ?
+            {loadingEtas || loadingTime ?
                 <div id="loading-icon">
                     <FontAwesomeIcon icon={faSpinner} spin />
                 </div> :
                 <div id="etas-container">
-                    {etas.map((eta, i) =>
-                        <EtaCard
-                            key={i}
-                            num={i + 1}
-                            arrivalTime={eta.arrT}
-                            route={eta.rt}
-                            run={eta.rn}
-                            destinationName={eta.destNm}
-                            time={time}
-                        />
-                    )}
+                    {newEtas.map((eta, i) => {
+                        return (
+                            <EtaCard key={i}
+                                num={i + 1}
+                                mins={eta.minsUntilArrival}
+                                route={eta.rt}
+                                run={eta.rn}
+                                destinationName={eta.destNm} />
+                        )
+                    })}
                 </div>
             }
         </>
